@@ -543,7 +543,6 @@
 - [ryannair05/Snoverlay-2](https://github.com/ryannair05/Snoverlay-2) - Falling Snowflakes for iOS Devices
 - [Muirey03/libimagepicker](https://github.com/Muirey03/libimagepicker) - A simple library for choosing images in preference bundles.
 - [nathanwhit/Springfinity](https://github.com/nathanwhit/Springfinity) - A remake of Infiniboard by chpwn, made for iOS 11-12
-- [yourWaifu/is-your-waifu-legal](https://github.com/yourWaifu/is-your-waifu-legal) - Check if your waifu is legal or not
 - [EamonTracey/iPatch](https://github.com/EamonTracey/iPatch) - GUI tool to inject dynamic libraries into IPA files
 - [SynnyG/DailyIcons](https://github.com/SynnyG/DailyIcons) - 
 - [tony-pizza/Stereogram.js](https://github.com/tony-pizza/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
