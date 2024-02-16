@@ -421,6 +421,8 @@
 
 ## others 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
 - [akosma/nib2objc](https://github.com/akosma/nib2objc) - Set of tools and utilities (command line, GUI, Mac Service) to transform NIB files for the iPhone into Objective-C code files
