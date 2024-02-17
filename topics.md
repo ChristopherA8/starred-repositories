@@ -458,7 +458,7 @@
 - [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [BirdPoopTweak/BirdPoop](https://github.com/BirdPoopTweak/BirdPoop) - GamePigeon hacks tweak for jailbroken iOS
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [Windsdon/spotify-control](https://github.com/Windsdon/spotify-control) - Control a Spotify client running on the localhost
 - [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
