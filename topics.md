@@ -36,6 +36,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [ios](#ios)
 - [java](#java)
@@ -257,6 +258,10 @@
 - [Danktuary/vue-discord-message](https://github.com/Danktuary/vue-discord-message) - Vue components to easily build and display fake Discord messages on your webpages.
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
+
+## home-assistant 
+
+- [tsunglung/XiaomiAirFryer](https://github.com/tsunglung/XiaomiAirFryer) - Xiaomi Smart Air Fryer integration for Home Assistant
 
 ## html 
 
