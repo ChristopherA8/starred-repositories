@@ -23,6 +23,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [Pascal](#pascal)
+- [Pawn](#pawn)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -303,6 +304,10 @@
 ## Pascal 
 
 - [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
+
+## Pawn 
+
+- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative based on Raspberry Pi Pico
 
 ## Perl 
 
