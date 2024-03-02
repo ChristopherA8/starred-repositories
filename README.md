@@ -373,7 +373,7 @@
 ## Swift 
 
 - [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
-- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - A Swift Toast view - iOS 14 style and newer - built with UIKit. 🍞
+- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [NSAntoine/Samra](https://github.com/NSAntoine/Samra) - Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [kukushi/SideMenu](https://github.com/kukushi/SideMenu) - An interactive iOS side menu with rich features.
