@@ -270,7 +270,7 @@
 ## ios 
 
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
-- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - A Swift Toast view - iOS 14 style and newer - built with UIKit. 🍞
+- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [kukushi/SideMenu](https://github.com/kukushi/SideMenu) - An interactive iOS side menu with rich features.
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
@@ -419,7 +419,7 @@
 
 ## open-source 
 
-- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - A Swift Toast view - iOS 14 style and newer - built with UIKit. 🍞
+- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks) - Tweaks I've left open, maybe someone can learn from/correct them.
@@ -725,7 +725,7 @@
 ## swift 
 
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
-- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - A Swift Toast view - iOS 14 style and newer - built with UIKit. 🍞
+- [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
 - [kukushi/SideMenu](https://github.com/kukushi/SideMenu) - An interactive iOS side menu with rich features.
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
