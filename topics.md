@@ -107,10 +107,12 @@
 
 ## awesome 
 
+- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 
 ## awesome-list 
 
+- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -505,7 +507,6 @@
 - [crystall1nedev/signing-apt-repo-faq](https://github.com/crystall1nedev/signing-apt-repo-faq) - How to sign an APT repository... correctly.
 - [adafruit/Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen) - Arduino library for 4-wire resistive touchscreens
 - [adafruit/TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library) - Arduino library for 8-bit TFT LCDs such as ILI9325, ILI9328, etc
-- [ja1dan/Destiny](https://github.com/ja1dan/Destiny) - A simple, configurable ZSH prompt with no dependencies.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [JakeBlair420/Spice](https://github.com/JakeBlair420/Spice) - Spice - an unfinished iOS 11 untether
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
