@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) - The world’s 1st book of very detailed iOS App reverse engineering skills :)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [antoniozekic/papers_and_slides](https://github.com/antoniozekic/papers_and_slides) - 
@@ -359,7 +360,6 @@
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jooeungen/iMessage-sticker-app-icon-generator](https://github.com/jooeungen/iMessage-sticker-app-icon-generator) - This helps you generate all the necessary app icons for iMessage Sticker project with one command!
-- [ja1dan/Destiny](https://github.com/ja1dan/Destiny) - A simple, configurable ZSH prompt with no dependencies.
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [InternalStore/InternalEnabler](https://github.com/InternalStore/InternalEnabler) - Enables certain internal features on production builds of iOS.
