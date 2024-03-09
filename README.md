@@ -22,6 +22,7 @@
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
+- [PHP](#php)
 - [Pascal](#pascal)
 - [Pawn](#pawn)
 - [Perl](#perl)
@@ -111,6 +112,7 @@
 
 ## Go 
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
 
 ## HTML 
@@ -121,6 +123,7 @@
 
 ## Java 
 
+- [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [GardeningTool/DiscordExploit](https://github.com/GardeningTool/DiscordExploit) - A method of false flagging Windows Defender in Discord and other applications
 
@@ -301,6 +304,11 @@
 - [teamleviathan/frcoal-tweak-development-guide](https://github.com/teamleviathan/frcoal-tweak-development-guide) - Learn how to make iOS tweaks with frcoal's tweak development guide!
 - [SparkDev97/iOS14-Runtime-Headers](https://github.com/SparkDev97/iOS14-Runtime-Headers) - 
 - [Void122/iosHacks](https://github.com/Void122/iosHacks) - iosHacks
+
+## PHP 
+
+- [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
 ## Pascal 
 
