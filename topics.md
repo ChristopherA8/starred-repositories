@@ -81,6 +81,7 @@
 - [twitter](#twitter)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [web](#web)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -428,6 +429,9 @@
 
 ## others 
 
+- [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
+- [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative based on Raspberry Pi Pico
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
@@ -632,6 +636,7 @@
 
 ## pentesting 
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 
 ## perl 
@@ -768,6 +773,10 @@
 
 - [Danktuary/vue-discord-message](https://github.com/Danktuary/vue-discord-message) - Vue components to easily build and display fake Discord messages on your webpages.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+
+## web 
+
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 
 ## webapp 
 
