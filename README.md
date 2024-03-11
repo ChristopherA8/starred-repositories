@@ -344,7 +344,7 @@
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
-- [0cyn/ktool](https://github.com/0cyn/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
+- [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [arandomdev/DyldExtractor](https://github.com/arandomdev/DyldExtractor) - Extract Binaries from Apple's Dyld Shared Cache
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [Sangster-5/kahoot-flooder](https://github.com/Sangster-5/kahoot-flooder) - Kahoot Bot Flooder
