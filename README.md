@@ -18,6 +18,7 @@
 - [Jinja](#jinja)
 - [LOLCODE](#lolcode)
 - [Logos](#logos)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -207,6 +208,10 @@
 - [quiprr/RedditNA](https://github.com/quiprr/RedditNA) - An 8 line tweak to disable ads on the Reddit app.
 - [qwertyuiop1379/Tweaks](https://github.com/qwertyuiop1379/Tweaks) - All of my open sourced tweaks
 
+## Lua 
+
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
+
 ## Makefile 
 
 - [MrGcGamer/NoDNDBanner](https://github.com/MrGcGamer/NoDNDBanner) - 
@@ -365,7 +370,6 @@
 
 ## Shell 
 
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jooeungen/iMessage-sticker-app-icon-generator](https://github.com/jooeungen/iMessage-sticker-app-icon-generator) - This helps you generate all the necessary app icons for iMessage Sticker project with one command!
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
