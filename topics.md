@@ -51,7 +51,6 @@
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
-- [neovim](#neovim)
 - [node](#node)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
@@ -385,10 +384,6 @@
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
 
-## neovim 
-
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
-
 ## node 
 
 - [evancohen/sonus](https://github.com/evancohen/sonus) - :speech_balloon: /so.nus/ STT (speech to text) for Node with offline hotword detection
@@ -464,6 +459,7 @@
 - [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
 - [daltoniam/DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [DragonBuild/llvm-objcs](https://github.com/DragonBuild/llvm-objcs) - Objective-C hooking extension with toolchain/language server support, autocomplete, etc.
 - [kritanta-ios-tweaks/Gravitation](https://github.com/kritanta-ios-tweaks/Gravitation) - Set your icons free!
 - [0cyn/Fingertips](https://github.com/0cyn/Fingertips) - 
