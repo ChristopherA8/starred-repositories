@@ -418,6 +418,7 @@
 
 ## TypeScript 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [MinecraftJS/rcon](https://github.com/MinecraftJS/rcon) - RCON Minecraft client written in TypeScript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [Infamoustrey/bible-gateway-api](https://github.com/Infamoustrey/bible-gateway-api) - 
@@ -436,7 +437,6 @@
 
 ## Vue 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Danktuary/vue-discord-message](https://github.com/Danktuary/vue-discord-message) - Vue components to easily build and display fake Discord messages on your webpages.
 
 
