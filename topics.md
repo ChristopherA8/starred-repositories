@@ -462,7 +462,7 @@
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [DragonBuild/llvm-objcs](https://github.com/DragonBuild/llvm-objcs) - Objective-C hooking extension with toolchain/language server support, autocomplete, etc.
 - [kritanta-ios-tweaks/Gravitation](https://github.com/kritanta-ios-tweaks/Gravitation) - Set your icons free!
-- [0cyn/Fingertips](https://github.com/0cyn/Fingertips) - 
+- [kritanta-ios-tweaks/Fingertips](https://github.com/kritanta-ios-tweaks/Fingertips) - This is an old iOS 13(?) tweak that showed your fingertip presses onscreen. For recording purposes.
 - [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [BirdPoopTweak/BirdPoop](https://github.com/BirdPoopTweak/BirdPoop) - GamePigeon hacks tweak for jailbroken iOS
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
@@ -591,7 +591,6 @@
 - [alexkotr1/jailbreakbot](https://github.com/alexkotr1/jailbreakbot) - 
 - [ModernPwner/cicuta_virosa](https://github.com/ModernPwner/cicuta_virosa) - 
 - [alexPNG/Shake2Toggle](https://github.com/alexPNG/Shake2Toggle) - Shake2Toggle by alex_png - Control your device with shakes!
-- [0cyn/MessageLog](https://github.com/0cyn/MessageLog) - A simple library to log all objc_msgSend calls
 - [kritanta-ios-tweaks/ShakeLight](https://github.com/kritanta-ios-tweaks/ShakeLight) - shake for light
 - [TimOliver/TONavigationBar](https://github.com/TimOliver/TONavigationBar) - Replicating the 'clear' navigation bar style of the iOS 12 Apple TV app.
 - [rtenhunen/wwdc-2016-terminal-theme](https://github.com/rtenhunen/wwdc-2016-terminal-theme) - WWDC 2016 inspired Terminal theme
@@ -599,7 +598,7 @@
 - [LuckyHacker/humanbenchmark-hack](https://github.com/LuckyHacker/humanbenchmark-hack) - Human Benchmark - Reaction Time Test hack
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [cbpowell/MarqueeLabel-ObjC](https://github.com/cbpowell/MarqueeLabel-ObjC) - DEPRECATED - MarqueeLabel-ObjC is an archive spinoff of the Objective-C MarqueeLabel code! See https://github.com/cbpowell/MarqueeLabel for the up-to-date and maintained Swift branch!
-- [0cyn/Exobar](https://github.com/0cyn/Exobar) - By Nepeta | XenHTML, but in the status bar
+- [kritanta-ios-tweaks/Exobar](https://github.com/kritanta-ios-tweaks/Exobar) - By Nepeta | XenHTML, but in the status bar
 - [pixelomer/BadApple](https://github.com/pixelomer/BadApple) - pongoOS module for playing animated GIFs
 - [Yes-Theory-Fam/yesbot-ts](https://github.com/Yes-Theory-Fam/yesbot-ts) - Codebase for the production bot on https://discord.gg/yestheory
 - [tweakweek/RandomFlip](https://github.com/tweakweek/RandomFlip) - 
@@ -653,7 +652,7 @@
 
 ## python 
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
