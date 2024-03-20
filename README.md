@@ -199,7 +199,6 @@
 - [p2kdev/RingPercentLabel](https://github.com/p2kdev/RingPercentLabel) - Percent Labels for the Battery Widget Rings!
 - [majd/libTransLock](https://github.com/majd/libTransLock) - Bruteforce the 4-digit passcode on iOS 8
 - [alexPNG/Shake2Toggle](https://github.com/alexPNG/Shake2Toggle) - Shake2Toggle by alex_png - Control your device with shakes!
-- [0cyn/MessageLog](https://github.com/0cyn/MessageLog) - A simple library to log all objc_msgSend calls
 - [kritanta-ios-tweaks/ShakeLight](https://github.com/kritanta-ios-tweaks/ShakeLight) - shake for light
 - [ZaneH/tweak-series](https://github.com/ZaneH/tweak-series) - Repo for YouTube series teaching iOS tweak development.
 - [n3oney/NudeDock](https://github.com/n3oney/NudeDock) - Remove the background from your dock.
@@ -229,7 +228,7 @@
 - [facebookarchive/Shimmer](https://github.com/facebookarchive/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [daltoniam/DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 - [kritanta-ios-tweaks/Gravitation](https://github.com/kritanta-ios-tweaks/Gravitation) - Set your icons free!
-- [0cyn/Fingertips](https://github.com/0cyn/Fingertips) - 
+- [kritanta-ios-tweaks/Fingertips](https://github.com/kritanta-ios-tweaks/Fingertips) - This is an old iOS 13(?) tweak that showed your fingertip presses onscreen. For recording purposes.
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [gilesgc/Freemote](https://github.com/gilesgc/Freemote) - An iOS jailbreak tweak that brings BTTV emotes to the Twitch app
 - [itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock) - BetterBlock is the better AdBlocker.
@@ -269,7 +268,7 @@
 - [TimOliver/TONavigationBar](https://github.com/TimOliver/TONavigationBar) - Replicating the 'clear' navigation bar style of the iOS 12 Apple TV app.
 - [wzqcongcong/macSubstrate](https://github.com/wzqcongcong/macSubstrate) - Substrate for macOS
 - [cbpowell/MarqueeLabel-ObjC](https://github.com/cbpowell/MarqueeLabel-ObjC) - DEPRECATED - MarqueeLabel-ObjC is an archive spinoff of the Objective-C MarqueeLabel code! See https://github.com/cbpowell/MarqueeLabel for the up-to-date and maintained Swift branch!
-- [0cyn/Exobar](https://github.com/0cyn/Exobar) - By Nepeta | XenHTML, but in the status bar
+- [kritanta-ios-tweaks/Exobar](https://github.com/kritanta-ios-tweaks/Exobar) - By Nepeta | XenHTML, but in the status bar
 - [DavydLiu/DLRadioButton](https://github.com/DavydLiu/DLRadioButton) - Radio Button for iOS
 - [woodfairy/koi](https://github.com/woodfairy/koi) - cuttlefish remake for iOS 13 & 14
 - [kritanta-ios-tweaks/Signe](https://github.com/kritanta-ios-tweaks/Signe) - Dynamic Gesture Recognition Across iOS
@@ -336,7 +335,7 @@
 - [tsunglung/XiaomiAirFryer](https://github.com/tsunglung/XiaomiAirFryer) - Xiaomi Smart Air Fryer integration for Home Assistant
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [davidquesada/ibtool](https://github.com/davidquesada/ibtool) - iOS Interface Builder utility, implemented in python.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
