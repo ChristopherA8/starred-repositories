@@ -279,7 +279,7 @@
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 6.0 and higher.
 - [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [HenryQuan/TSFakeTouch](https://github.com/HenryQuan/TSFakeTouch) - Use PTFakeTouch with theos
