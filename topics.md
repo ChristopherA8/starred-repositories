@@ -187,7 +187,6 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [3ventic/ytdsc](https://github.com/3ventic/ytdsc) - Youtube Uploads to Discord Webhooks
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
-- [wodxgod/Discord-Token-Grabber](https://github.com/wodxgod/Discord-Token-Grabber) - A simple Discord token grabber written in Python 3
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot!
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
@@ -657,7 +656,6 @@
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
-- [wodxgod/Discord-Token-Grabber](https://github.com/wodxgod/Discord-Token-Grabber) - A simple Discord token grabber written in Python 3
 
 ## python3 
 
