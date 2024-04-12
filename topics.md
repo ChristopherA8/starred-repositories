@@ -88,6 +88,7 @@
 
 ## android 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 
 ## api 
@@ -222,6 +223,7 @@
 
 ## framework 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 ## game 
@@ -270,6 +272,7 @@
 
 ## ios 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [kukushi/SideMenu](https://github.com/kukushi/SideMenu) - An interactive iOS side menu with rich features.
@@ -370,6 +373,7 @@
 
 ## mobile 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 
 ## monitoring 
@@ -698,6 +702,7 @@
 
 ## security 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 
