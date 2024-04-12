@@ -332,6 +332,7 @@
 
 ## Python 
 
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [tsunglung/XiaomiAirFryer](https://github.com/tsunglung/XiaomiAirFryer) - Xiaomi Smart Air Fryer integration for Home Assistant
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [davidquesada/ibtool](https://github.com/davidquesada/ibtool) - iOS Interface Builder utility, implemented in python.
