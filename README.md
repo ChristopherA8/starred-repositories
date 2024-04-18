@@ -220,6 +220,8 @@
 
 ## Objective-C 
 
+- [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
+- [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [akosma/nib2objc](https://github.com/akosma/nib2objc) - Set of tools and utilities (command line, GUI, Mac Service) to transform NIB files for the iPhone into Objective-C code files
