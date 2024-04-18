@@ -228,6 +228,7 @@
 
 ## game 
 
+- [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [pixelomer/PongoBRIX](https://github.com/pixelomer/PongoBRIX) - First pongoOS game #pongoOSMasterRace
 
@@ -349,6 +350,7 @@
 
 ## macos 
 
+- [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -427,6 +429,7 @@
 
 ## others 
 
+- [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
 - [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
