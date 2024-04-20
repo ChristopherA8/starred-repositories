@@ -20,6 +20,7 @@
 - [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Meson](#meson)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -215,8 +216,11 @@
 
 - [MrGcGamer/NoDNDBanner](https://github.com/MrGcGamer/NoDNDBanner) - 
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Objective-C 
 
