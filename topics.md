@@ -26,6 +26,7 @@
 - [docker](#docker)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [firefox](#firefox)
 - [font](#font)
@@ -207,6 +208,10 @@
 ## elixir 
 
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
+
+## embedded 
+
+- [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 
 ## emulator 
 
