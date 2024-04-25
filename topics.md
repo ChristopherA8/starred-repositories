@@ -434,6 +434,7 @@
 
 ## others 
 
+- [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
 - [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
