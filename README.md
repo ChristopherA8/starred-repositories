@@ -30,6 +30,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -126,6 +127,7 @@
 
 ## Java 
 
+- [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [GardeningTool/DiscordExploit](https://github.com/GardeningTool/DiscordExploit) - A method of false flagging Windows Defender in Discord and other applications
@@ -366,6 +368,10 @@
 - [sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi) - Sunfounder Super Kit Python code for Raspberry Pi
 - [AndyTempel/dblapi](https://github.com/AndyTempel/dblapi) - Discord Bots List API Wrapper. Customized for use in discord.py
 - [0cyn/election](https://github.com/0cyn/election) - 
+
+## QML 
+
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Rust 
 
