@@ -24,6 +24,7 @@
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
@@ -198,6 +199,10 @@
 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## dotfiles 
+
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 
 ## electron 
 
@@ -474,7 +479,6 @@
 - [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
 - [daltoniam/DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [DragonBuild/llvm-objcs](https://github.com/DragonBuild/llvm-objcs) - Objective-C hooking extension with toolchain/language server support, autocomplete, etc.
 - [kritanta-ios-tweaks/Gravitation](https://github.com/kritanta-ios-tweaks/Gravitation) - Set your icons free!
 - [kritanta-ios-tweaks/Fingertips](https://github.com/kritanta-ios-tweaks/Fingertips) - This is an old iOS 13(?) tweak that showed your fingertip presses onscreen. For recording purposes.
