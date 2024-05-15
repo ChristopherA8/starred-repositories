@@ -396,7 +396,7 @@
 
 ## music 
 
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
@@ -441,6 +441,7 @@
 
 ## others 
 
+- [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
@@ -778,7 +779,7 @@
 
 ## twitter 
 
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 
 ## visual-studio-code 
@@ -797,7 +798,7 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 
 ## website 
 
