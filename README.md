@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [FlagBrew/PKSM-Core](https://github.com/FlagBrew/PKSM-Core) - The core save editing code for PKSM (https://github.com/FlagBrew/PKSM)
@@ -137,7 +138,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
 - [JMPerez/spotify-iquiz](https://github.com/JMPerez/spotify-iquiz) - iQuiz-like webapp using Spotify Web API
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
 - [Windsdon/spotify-control](https://github.com/Windsdon/spotify-control) - Control a Spotify client running on the localhost
 - [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
