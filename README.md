@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
@@ -128,6 +129,7 @@
 
 ## Java 
 
+- [julienvillegas/box2d-editor](https://github.com/julienvillegas/box2d-editor) - Automatically exported from code.google.com/p/box2d-editor - migrated here to maybe maintain together with Destination Sol. Original website:
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
