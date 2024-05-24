@@ -33,6 +33,7 @@
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
+- [game-development](#game-development)
 - [github](#github)
 - [gradle](#gradle)
 - [graphql](#graphql)
@@ -238,9 +239,14 @@
 
 ## game 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [pixelomer/PongoBRIX](https://github.com/pixelomer/PongoBRIX) - First pongoOS game #pongoOSMasterRace
+
+## game-development 
+
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
 ## github 
 
@@ -261,6 +267,7 @@
 
 ## hacktoberfest 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -320,6 +327,7 @@
 
 ## java 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 
@@ -441,6 +449,7 @@
 
 ## others 
 
+- [julienvillegas/box2d-editor](https://github.com/julienvillegas/box2d-editor) - Automatically exported from code.google.com/p/box2d-editor - migrated here to maybe maintain together with Destination Sol. Original website:
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
@@ -684,6 +693,7 @@
 
 ## qt 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
