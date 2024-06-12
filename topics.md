@@ -449,6 +449,7 @@
 
 ## others 
 
+- [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
 - [julienvillegas/box2d-editor](https://github.com/julienvillegas/box2d-editor) - Automatically exported from code.google.com/p/box2d-editor - migrated here to maybe maintain together with Destination Sol. Original website:
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
