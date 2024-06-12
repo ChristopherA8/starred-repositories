@@ -230,6 +230,7 @@
 
 ## Objective-C 
 
+- [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
