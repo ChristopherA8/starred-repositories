@@ -230,6 +230,7 @@
 
 ## Objective-C 
 
+- [XueshiQiao/QuickFind](https://github.com/XueshiQiao/QuickFind) - A Xcode plugin to help you find/search something more quickly and more conveniently.
 - [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [iosre/HippocampHairSalon](https://github.com/iosre/HippocampHairSalon) - A simple universal memory editor (game trainer) on OSX/iOS
@@ -297,6 +298,7 @@
 
 ## Others 
 
+- [youssman/awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :)
 - [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) - The world’s 1st book of very detailed iOS App reverse engineering skills :)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
