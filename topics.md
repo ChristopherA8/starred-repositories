@@ -449,6 +449,8 @@
 
 ## others 
 
+- [youssman/awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :)
+- [XueshiQiao/QuickFind](https://github.com/XueshiQiao/QuickFind) - A Xcode plugin to help you find/search something more quickly and more conveniently.
 - [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
 - [julienvillegas/box2d-editor](https://github.com/julienvillegas/box2d-editor) - Automatically exported from code.google.com/p/box2d-editor - migrated here to maybe maintain together with Destination Sol. Original website:
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
