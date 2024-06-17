@@ -21,6 +21,7 @@
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [css](#css)
+- [data-analysis](#data-analysis)
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
@@ -77,6 +78,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [statistics](#statistics)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
@@ -173,6 +175,10 @@
 
 - [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
 
+## data-analysis 
+
+- [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
+
 ## database 
 
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
@@ -180,6 +186,7 @@
 
 ## discord 
 
+- [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [dsdude123/GroovyRP](https://github.com/dsdude123/GroovyRP) - Groove Music rich presence for Discord
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
@@ -512,7 +519,6 @@
 - [gilesgc/Freemote](https://github.com/gilesgc/Freemote) - An iOS jailbreak tweak that brings BTTV emotes to the Twitch app
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
-- [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [bazad/blanket](https://github.com/bazad/blanket) - CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.
 - [HearseDev/logos-format](https://github.com/HearseDev/logos-format) - 
 - [itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock) - BetterBlock is the better AdBlocker.
@@ -756,6 +762,10 @@
 ## sqlite 
 
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+
+## statistics 
+
+- [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 
 ## swift 
 
