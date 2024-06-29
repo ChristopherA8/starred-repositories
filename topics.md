@@ -46,6 +46,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
+- [json](#json)
 - [language](#language)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -356,6 +357,10 @@
 - [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot!
 
+## json 
+
+- [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+
 ## language 
 
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
@@ -456,6 +461,7 @@
 
 ## others 
 
+- [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [youssman/awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :)
 - [XueshiQiao/QuickFind](https://github.com/XueshiQiao/QuickFind) - A Xcode plugin to help you find/search something more quickly and more conveniently.
 - [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
@@ -770,6 +776,7 @@
 
 ## swift 
 
+- [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
