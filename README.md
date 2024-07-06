@@ -197,7 +197,6 @@
 - [PoomSmart/FLEXing](https://github.com/PoomSmart/FLEXing) - A simple tweak to activate a FLEX explorer window
 - [BirdPoopTweak/BirdPoop](https://github.com/BirdPoopTweak/BirdPoop) - GamePigeon hacks tweak for jailbroken iOS
 - [hadad95/Rofi](https://github.com/hadad95/Rofi) - 
-- [HearseDev/3developer](https://github.com/HearseDev/3developer) - 
 - [HearseDev/FlexExtend](https://github.com/HearseDev/FlexExtend) - Add useful Functionality to FLEX
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
 - [gilshahar7/AVLock](https://github.com/gilshahar7/AVLock) - Jailbreak tweak: add an orientation lock button to the stock iOS video player.
@@ -294,6 +293,7 @@
 
 ## Objective-C++ 
 
+- [HearseDev/3developer](https://github.com/HearseDev/3developer) - 
 - [DerekSelander/dsdump](https://github.com/DerekSelander/dsdump) - An improved nm + Objective-C & Swift class-dump
 
 ## Others 
