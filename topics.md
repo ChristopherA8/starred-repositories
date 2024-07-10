@@ -14,6 +14,7 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -142,6 +143,10 @@
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot!
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
+
+## bugbounty 
+
+- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 
 ## c 
 
@@ -640,7 +645,6 @@
 - [rtenhunen/wwdc-2016-terminal-theme](https://github.com/rtenhunen/wwdc-2016-terminal-theme) - WWDC 2016 inspired Terminal theme
 - [LuckyHacker/xss-payloader](https://github.com/LuckyHacker/xss-payloader) - Bruteforce XSS vulnerabilities
 - [LuckyHacker/humanbenchmark-hack](https://github.com/LuckyHacker/humanbenchmark-hack) - Human Benchmark - Reaction Time Test hack
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [cbpowell/MarqueeLabel-ObjC](https://github.com/cbpowell/MarqueeLabel-ObjC) - DEPRECATED - MarqueeLabel-ObjC is an archive spinoff of the Objective-C MarqueeLabel code! See https://github.com/cbpowell/MarqueeLabel for the up-to-date and maintained Swift branch!
 - [kritanta-ios-tweaks/Exobar](https://github.com/kritanta-ios-tweaks/Exobar) - By Nepeta | XenHTML, but in the status bar
 - [pixelomer/BadApple](https://github.com/pixelomer/BadApple) - pongoOS module for playing animated GIFs
