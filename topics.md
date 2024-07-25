@@ -608,7 +608,6 @@
 - [theos/sdks](https://github.com/theos/sdks) - Patched sdks that include private framework tbds
 - [SparkDev97/libSparkColourPicker](https://github.com/SparkDev97/libSparkColourPicker) - Spark's Colour Picker Library
 - [NedAckland/DogeBot](https://github.com/NedAckland/DogeBot) - 
-- [okdargy/benbot](https://github.com/okdargy/benbot) - BenBot is a random/fun bot for DogeHouse. With a variety of commands, it brings fun to every DogeHouse room.
 - [23Aaron/Betelguese](https://github.com/23Aaron/Betelguese) - 
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [dogegarden/dogehouse.js](https://github.com/dogegarden/dogehouse.js) - Client-side implementation of DogeHouse API.
