@@ -478,7 +478,7 @@
 - [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative based on Raspberry Pi Pico
+- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
