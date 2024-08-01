@@ -334,7 +334,7 @@
 
 ## Pawn 
 
-- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative based on Raspberry Pi Pico
+- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico
 
 ## Perl 
 
