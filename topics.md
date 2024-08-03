@@ -466,6 +466,7 @@
 
 ## others 
 
+- [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [youssman/awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :)
 - [XueshiQiao/QuickFind](https://github.com/XueshiQiao/QuickFind) - A Xcode plugin to help you find/search something more quickly and more conveniently.
