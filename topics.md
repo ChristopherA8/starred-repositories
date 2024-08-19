@@ -83,6 +83,7 @@
 - [statistics](#statistics)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [visual-studio-code](#visual-studio-code)
@@ -466,6 +467,7 @@
 
 ## others 
 
+- [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
 - [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [youssman/awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :)
@@ -807,6 +809,10 @@
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
+
+## tailwindcss 
+
+- [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
 
 ## terminal 
 
