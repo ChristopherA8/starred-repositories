@@ -180,7 +180,6 @@
 - [hawkins/groupme-at-all](https://github.com/hawkins/groupme-at-all) - A Hubot chat bot to mention every user in a GroupMe channel all at once.
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot!
 - [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 
 ## Jinja 
