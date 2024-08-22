@@ -450,7 +450,7 @@
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
 - [MatteZ02/discord-interactions](https://github.com/MatteZ02/discord-interactions) - A simple to use discord interactionClient
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [rocktimsaikia/animechan](https://github.com/rocktimsaikia/animechan) - A REST API for anime quotes
+- [Animechan-API/animechan](https://github.com/Animechan-API/animechan) - A REST API for anime quotes
 - [Yes-Theory-Fam/yesbot-ts](https://github.com/Yes-Theory-Fam/yesbot-ts) - Codebase for the production bot on https://discord.gg/yestheory
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
