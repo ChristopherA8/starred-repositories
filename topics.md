@@ -16,6 +16,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -152,6 +153,11 @@
 
 - [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
+
+## c-plus-plus 
+
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 ## chrome 
 
@@ -486,7 +492,6 @@
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [Billy-Ellis/framebuffer_write](https://github.com/Billy-Ellis/framebuffer_write) - A tool to write text to the iOS screen by directly modifying the pixel information in the framebuffer
 - [FlagBrew/PKSM-Core](https://github.com/FlagBrew/PKSM-Core) - The core save editing code for PKSM (https://github.com/FlagBrew/PKSM)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [NSAntoine/Samra](https://github.com/NSAntoine/Samra) - Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
@@ -611,7 +616,7 @@
 - [PoomSmart/PhotoTorch](https://github.com/PoomSmart/PhotoTorch) - Adjustable torch for camera app.
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [DimitarNestorov/RepoOnVercel](https://github.com/DimitarNestorov/RepoOnVercel) - Cydia/APT repo template using Vercel and GitHub Releases
-- [rocktimsaikia/animechan](https://github.com/rocktimsaikia/animechan) - A REST API for anime quotes
+- [Animechan-API/animechan](https://github.com/Animechan-API/animechan) - A REST API for anime quotes
 - [sohsatoh/FreePIP](https://github.com/sohsatoh/FreePIP) - FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [p2kdev/RingPercentLabel](https://github.com/p2kdev/RingPercentLabel) - Percent Labels for the Battery Widget Rings!
