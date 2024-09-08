@@ -43,6 +43,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -301,6 +302,13 @@
 
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 
+## instagram 
+
+- [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
+- [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
+
 ## ios 
 
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -528,7 +536,6 @@
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [gilesgc/Freemote](https://github.com/gilesgc/Freemote) - An iOS jailbreak tweak that brings BTTV emotes to the Twitch app
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
-- [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [bazad/blanket](https://github.com/bazad/blanket) - CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.
 - [HearseDev/logos-format](https://github.com/HearseDev/logos-format) - 
 - [itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock) - BetterBlock is the better AdBlocker.
