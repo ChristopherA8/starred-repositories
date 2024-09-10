@@ -141,7 +141,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
 - [JMPerez/spotify-iquiz](https://github.com/JMPerez/spotify-iquiz) - iQuiz-like webapp using Spotify Web API
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
 - [Windsdon/spotify-control](https://github.com/Windsdon/spotify-control) - Control a Spotify client running on the localhost
 - [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
@@ -401,6 +400,7 @@
 
 ## Svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 
 ## Swift 
