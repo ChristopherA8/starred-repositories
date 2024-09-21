@@ -416,7 +416,9 @@
 - [NSAntoine/Samra](https://github.com/NSAntoine/Samra) - Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [kukushi/SideMenu](https://github.com/kukushi/SideMenu) - An interactive iOS side menu with rich features.
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+- [leminlimez/CowabungaLite](https://github.com/leminlimez/CowabungaLite) - iOS 15+ Customization Toolbox
 - [janselv/fave-button](https://github.com/janselv/fave-button) - FaveButton is an iOS cute animated like button written in Swift.
+- [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
 - [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [spotify/SpotifyLogin](https://github.com/spotify/SpotifyLogin) - Swift framework for authenticating with the Spotify API
