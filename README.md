@@ -217,6 +217,7 @@
 
 ## Makefile 
 
+- [mroi/apple-internals](https://github.com/mroi/apple-internals) - information and tools to understand the internals of Apple’s operating systems
 - [MrGcGamer/NoDNDBanner](https://github.com/MrGcGamer/NoDNDBanner) - 
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
