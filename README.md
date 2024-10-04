@@ -45,6 +45,7 @@
 
 ## C 
 
+- [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
@@ -349,6 +350,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [tsunglung/XiaomiAirFryer](https://github.com/tsunglung/XiaomiAirFryer) - Xiaomi Smart Air Fryer integration for Home Assistant
