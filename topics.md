@@ -652,8 +652,6 @@
 - [kritanta-ios-tweaks/ShakeLight](https://github.com/kritanta-ios-tweaks/ShakeLight) - shake for light
 - [TimOliver/TONavigationBar](https://github.com/TimOliver/TONavigationBar) - Replicating the 'clear' navigation bar style of the iOS 12 Apple TV app.
 - [rtenhunen/wwdc-2016-terminal-theme](https://github.com/rtenhunen/wwdc-2016-terminal-theme) - WWDC 2016 inspired Terminal theme
-- [LuckyHacker/xss-payloader](https://github.com/LuckyHacker/xss-payloader) - Bruteforce XSS vulnerabilities
-- [LuckyHacker/humanbenchmark-hack](https://github.com/LuckyHacker/humanbenchmark-hack) - Human Benchmark - Reaction Time Test hack
 - [cbpowell/MarqueeLabel-ObjC](https://github.com/cbpowell/MarqueeLabel-ObjC) - DEPRECATED - MarqueeLabel-ObjC is an archive spinoff of the Objective-C MarqueeLabel code! See https://github.com/cbpowell/MarqueeLabel for the up-to-date and maintained Swift branch!
 - [kritanta-ios-tweaks/Exobar](https://github.com/kritanta-ios-tweaks/Exobar) - By Nepeta | XenHTML, but in the status bar
 - [pixelomer/BadApple](https://github.com/pixelomer/BadApple) - pongoOS module for playing animated GIFs
