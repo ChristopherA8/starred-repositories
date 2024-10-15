@@ -374,8 +374,6 @@
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [Sangster-5/kahoot-flooder](https://github.com/Sangster-5/kahoot-flooder) - Kahoot Bot Flooder
 - [DiscordGIR/gir](https://github.com/DiscordGIR/gir) - 
-- [LuckyHacker/xss-payloader](https://github.com/LuckyHacker/xss-payloader) - Bruteforce XSS vulnerabilities
-- [LuckyHacker/humanbenchmark-hack](https://github.com/LuckyHacker/humanbenchmark-hack) - Human Benchmark - Reaction Time Test hack
 - [sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi) - Sunfounder Super Kit Python code for Raspberry Pi
 - [AndyTempel/dblapi](https://github.com/AndyTempel/dblapi) - Discord Bots List API Wrapper. Customized for use in discord.py
 - [0cyn/election](https://github.com/0cyn/election) - 
