@@ -523,7 +523,7 @@
 - [DragonBuild/llvm-objcs](https://github.com/DragonBuild/llvm-objcs) - Objective-C hooking extension with toolchain/language server support, autocomplete, etc.
 - [kritanta-ios-tweaks/Gravitation](https://github.com/kritanta-ios-tweaks/Gravitation) - Set your icons free!
 - [kritanta-ios-tweaks/Fingertips](https://github.com/kritanta-ios-tweaks/Fingertips) - This is an old iOS 13(?) tweak that showed your fingertip presses onscreen. For recording purposes.
-- [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
+- [tealbathingsuit/ellekit](https://github.com/tealbathingsuit/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [BirdPoopTweak/BirdPoop](https://github.com/BirdPoopTweak/BirdPoop) - GamePigeon hacks tweak for jailbroken iOS
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
