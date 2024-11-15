@@ -79,6 +79,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [spring](#spring)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
@@ -529,7 +530,6 @@
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [Windsdon/spotify-control](https://github.com/Windsdon/spotify-control) - Control a Spotify client running on the localhost
 - [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
-- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
 - [spotify/SpotifyLogin](https://github.com/spotify/SpotifyLogin) - Swift framework for authenticating with the Spotify API
@@ -732,6 +732,7 @@
 
 ## react 
 
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [leovoel/embed-visualizer](https://github.com/leovoel/embed-visualizer) - discord embed visualization tool
 - [Danktuary/react-discord-message](https://github.com/Danktuary/react-discord-message) - React components to easily build and display fake Discord messages on your webpages.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -771,6 +772,10 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+
+## spring 
+
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 
 ## sql 
 
