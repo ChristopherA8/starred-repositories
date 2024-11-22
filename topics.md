@@ -541,7 +541,6 @@
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
 - [bazad/blanket](https://github.com/bazad/blanket) - CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.
 - [HearseDev/logos-format](https://github.com/HearseDev/logos-format) - 
-- [itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock) - BetterBlock is the better AdBlocker.
 - [pritzza/SFML-Project-Starter](https://github.com/pritzza/SFML-Project-Starter) - Just clone, add project template to MSVS, and start your SFML project.
 - [Pieman7373/DungeonCE](https://github.com/Pieman7373/DungeonCE) - Game created initially for Cemetech Contest #22
 - [hadad95/Rofi](https://github.com/hadad95/Rofi) - 
