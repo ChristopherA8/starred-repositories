@@ -252,7 +252,6 @@
 - [kritanta-ios-tweaks/Fingertips](https://github.com/kritanta-ios-tweaks/Fingertips) - This is an old iOS 13(?) tweak that showed your fingertip presses onscreen. For recording purposes.
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [gilesgc/Freemote](https://github.com/gilesgc/Freemote) - An iOS jailbreak tweak that brings BTTV emotes to the Twitch app
-- [itsnebulalol/betterblock](https://github.com/itsnebulalol/betterblock) - BetterBlock is the better AdBlocker.
 - [vr1s/Viva](https://github.com/vr1s/Viva) - Intuitive, live, iOS Homescreen layout configuration
 - [HenryQuan/TSFakeTouch](https://github.com/HenryQuan/TSFakeTouch) - Use PTFakeTouch with theos
 - [Ret70/PTFakeTouch](https://github.com/Ret70/PTFakeTouch) - Simulate touch events for iOS［User mode］
