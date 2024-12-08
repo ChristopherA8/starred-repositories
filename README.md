@@ -27,7 +27,6 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
-- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -41,6 +40,7 @@
 
 ## Assembly 
 
+- [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 - [mass1ve-err0r/unibi-OSS](https://github.com/mass1ve-err0r/unibi-OSS) - A Collection of full & partial code for CompSci / IT students -powered by me @UniBielefeld
 
 ## BitBake 
@@ -152,7 +152,7 @@
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
 - [evancohen/sonus](https://github.com/evancohen/sonus) - :speech_balloon: /so.nus/ STT (speech to text) for Node with offline hotword detection
-- [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 - [piuccio/cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow
 - [ChristopherA8/ICOCTeensBot](https://github.com/ChristopherA8/ICOCTeensBot) - Discord bot for ICOC Teens Discord Server
 - [aetheryx/sharex-upload-server](https://github.com/aetheryx/sharex-upload-server) - A lightweight, dependency-less ShareX upload server in Node.js
@@ -334,10 +334,6 @@
 
 - [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-
-## Pascal 
-
-- [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 
 ## Perl 
 
