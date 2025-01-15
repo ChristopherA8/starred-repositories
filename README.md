@@ -282,7 +282,7 @@
 - [PoomSmart/PhotoTorch](https://github.com/PoomSmart/PhotoTorch) - Adjustable torch for camera app.
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
 - [haoerloveyou/Columba](https://github.com/haoerloveyou/Columba) - Columba for iOS 9
-- [PanguGamer/ShowSong](https://github.com/PanguGamer/ShowSong) - ShowSong Jailbreak Tweak
+- [parsasaray/ShowSong](https://github.com/parsasaray/ShowSong) - ShowSong Jailbreak Tweak
 - [denialpan/DoABarrelWall](https://github.com/denialpan/DoABarrelWall) - Cycle through lockscreen and homescreen wallpapers with an "unlimited" set amount of images in iOS 12 - 15.
 - [SparkDev97/libSparkAppList](https://github.com/SparkDev97/libSparkAppList) - 
 - [TimOliver/TONavigationBar](https://github.com/TimOliver/TONavigationBar) - Replicating the 'clear' navigation bar style of the iOS 12 Apple TV app.
