@@ -633,7 +633,7 @@
 - [InternalStore/InternalEnabler](https://github.com/InternalStore/InternalEnabler) - Enables certain internal features on production builds of iOS.
 - [majd/libTransLock](https://github.com/majd/libTransLock) - Bruteforce the 4-digit passcode on iOS 8
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [PanguGamer/ShowSong](https://github.com/PanguGamer/ShowSong) - ShowSong Jailbreak Tweak
+- [parsasaray/ShowSong](https://github.com/parsasaray/ShowSong) - ShowSong Jailbreak Tweak
 - [Sangster-5/kahoot-flooder](https://github.com/Sangster-5/kahoot-flooder) - Kahoot Bot Flooder
 - [DiscordGIR/gir](https://github.com/DiscordGIR/gir) - 
 - [EamonTracey/NomaePreferences](https://github.com/EamonTracey/NomaePreferences) - A SwiftUI preferences framework for iOS tweak development
