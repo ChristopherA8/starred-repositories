@@ -673,7 +673,7 @@
 - [dbolger/intemperate](https://github.com/dbolger/intemperate) - 🌡 Bypass your iOS device's thermal lockout.
 - [theos/logos](https://github.com/theos/logos) - Preprocessor that simplifies Objective-C hooking.
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [Emy/janet](https://github.com/Emy/janet) - Bot for the rjb community discord
+- [emy/janet](https://github.com/emy/janet) - Bot for the rjb community discord
 - [quiprr/RedditNA](https://github.com/quiprr/RedditNA) - An 8 line tweak to disable ads on the Reddit app.
 - [hbang/libcephei](https://github.com/hbang/libcephei) - Useful functions for tweak developers
 - [qwertyuiop1379/Tweaks](https://github.com/qwertyuiop1379/Tweaks) - All of my open sourced tweaks
