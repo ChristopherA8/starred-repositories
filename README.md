@@ -455,7 +455,7 @@
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
-- [Emy/janet](https://github.com/Emy/janet) - Bot for the rjb community discord
+- [emy/janet](https://github.com/emy/janet) - Bot for the rjb community discord
 
 ## Vue 
 
