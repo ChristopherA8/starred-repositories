@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -43,14 +42,11 @@
 - [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 - [mass1ve-err0r/unibi-OSS](https://github.com/mass1ve-err0r/unibi-OSS) - A Collection of full & partial code for CompSci / IT students -powered by me @UniBielefeld
 
-## BitBake 
-
-- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico
-
 ## C 
 
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
+- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
@@ -143,6 +139,7 @@
 
 ## JavaScript 
 
+- [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
 - [JMPerez/spotify-iquiz](https://github.com/JMPerez/spotify-iquiz) - iQuiz-like webapp using Spotify Web API
