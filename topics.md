@@ -472,6 +472,7 @@
 
 ## others 
 
+- [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [mroi/apple-internals](https://github.com/mroi/apple-internals) - information and tools to understand the internals of Apple’s operating systems
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
@@ -488,7 +489,7 @@
 - [nettitude/xss_payloads](https://github.com/nettitude/xss_payloads) - Exploitation for XSS
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico
+- [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
