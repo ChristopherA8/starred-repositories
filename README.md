@@ -444,7 +444,7 @@
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
+- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 - [MatteZ02/discord-interactions](https://github.com/MatteZ02/discord-interactions) - A simple to use discord interactionClient
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [Animechan-API/animechan](https://github.com/Animechan-API/animechan) - A REST API for anime quotes
