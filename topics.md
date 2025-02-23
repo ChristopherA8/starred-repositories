@@ -142,7 +142,7 @@
 ## bot 
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
+- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 - [ewliang/Gmail-Bot](https://github.com/ewliang/Gmail-Bot) - A simple Gmail bot I created in Node.js to help actively filter my emails. The motivation behind this project is due to the fact that some random recruiters don't bother looking at my resume which cle
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
@@ -206,7 +206,7 @@
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [leovoel/embed-visualizer](https://github.com/leovoel/embed-visualizer) - discord embed visualization tool
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
-- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
+- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 - [Danktuary/react-discord-message](https://github.com/Danktuary/react-discord-message) - React components to easily build and display fake Discord messages on your webpages.
 - [Danktuary/vue-discord-message](https://github.com/Danktuary/vue-discord-message) - Vue components to easily build and display fake Discord messages on your webpages.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
@@ -431,7 +431,7 @@
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
-- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters.
+- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 
 ## node 
 
