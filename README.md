@@ -262,7 +262,7 @@
 - [YMGPwcca/samsungpowerdown](https://github.com/YMGPwcca/samsungpowerdown) - SamsungPowerDown - Turn your boring Power Down view into Samsung's one!
 - [kabiroberai/ObjectiveScript](https://github.com/kabiroberai/ObjectiveScript) - The ObjectiveScript programming language runtime.
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [AlexandraAurora/Diary](https://github.com/AlexandraAurora/Diary) - Windows 10/11 lock screen replica
+- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
 - [ha1lie/windowexample](https://github.com/ha1lie/windowexample) - Simplified floating window example
 - [MegaDevIOS/JellyLock-Reborn](https://github.com/MegaDevIOS/JellyLock-Reborn) - A beautifully simple lockscreen application launcher for iOS 14.
 - [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - 
@@ -426,7 +426,7 @@
 - [HearseDev/Colorizd](https://github.com/HearseDev/Colorizd) - 
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
 - [elihwyma/ExampleXcodeApp](https://github.com/elihwyma/ExampleXcodeApp) - 
-- [AlexandraAurora/Liddell](https://github.com/AlexandraAurora/Liddell) - Little and colorful notification banners
+- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
 - [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
