@@ -330,8 +330,8 @@
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [AlexandraAurora/Diary](https://github.com/AlexandraAurora/Diary) - Windows 10/11 lock screen replica
-- [AlexandraAurora/Liddell](https://github.com/AlexandraAurora/Liddell) - Little and colorful notification banners
+- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
+- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
 - [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [eclair4151/NotiBlock](https://github.com/eclair4151/NotiBlock) - An iOS jailbreak tweak to write custom filters to block notifications
@@ -458,8 +458,8 @@
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
 - [Shade-Zepheri/Nougat](https://github.com/Shade-Zepheri/Nougat) - Android notification shade for iOS
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [AlexandraAurora/Diary](https://github.com/AlexandraAurora/Diary) - Windows 10/11 lock screen replica
-- [AlexandraAurora/Liddell](https://github.com/AlexandraAurora/Liddell) - Little and colorful notification banners
+- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
+- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
 - [LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks) - Tweaks I've left open, maybe someone can learn from/correct them.
 - [cbpowell/MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
 - [woodfairy/koi](https://github.com/woodfairy/koi) - cuttlefish remake for iOS 13 & 14
