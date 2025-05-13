@@ -86,10 +86,12 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
@@ -822,6 +824,10 @@
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
 
+## tailwind 
+
+- [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
+
 ## tailwindcss 
 
 - [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
@@ -841,6 +847,12 @@
 ## typescript 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+## ui 
+
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
+- [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
+- [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
 
 ## visual-studio-code 
 
