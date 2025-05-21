@@ -448,7 +448,7 @@
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 - [MatteZ02/discord-interactions](https://github.com/MatteZ02/discord-interactions) - A simple to use discord interactionClient
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [our-server/animechan](https://github.com/our-server/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
 - [Yes-Theory-Fam/yesbot-ts](https://github.com/Yes-Theory-Fam/yesbot-ts) - Codebase for the production bot on https://discord.gg/yestheory
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
