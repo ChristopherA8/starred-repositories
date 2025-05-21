@@ -624,7 +624,7 @@
 - [PoomSmart/PhotoTorch](https://github.com/PoomSmart/PhotoTorch) - Adjustable torch for camera app.
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [DimitarNestorov/RepoOnVercel](https://github.com/DimitarNestorov/RepoOnVercel) - Cydia/APT repo template using Vercel and GitHub Releases
-- [our-server/animechan](https://github.com/our-server/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
 - [sohsatoh/FreePIP](https://github.com/sohsatoh/FreePIP) - FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [p2kdev/RingPercentLabel](https://github.com/p2kdev/RingPercentLabel) - Percent Labels for the Battery Widget Rings!
