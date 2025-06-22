@@ -131,6 +131,7 @@
 
 ## Java 
 
+- [alan994/infoeduka](https://github.com/alan994/infoeduka) - 
 - [julienvillegas/box2d-editor](https://github.com/julienvillegas/box2d-editor) - Automatically exported from code.google.com/p/box2d-editor - migrated here to maybe maintain together with Destination Sol. Original website:
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
