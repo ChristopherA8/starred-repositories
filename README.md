@@ -253,7 +253,7 @@
 - [gilesgc/Freemote](https://github.com/gilesgc/Freemote) - An iOS jailbreak tweak that brings BTTV emotes to the Twitch app
 - [vr1s/Viva](https://github.com/vr1s/Viva) - Intuitive, live, iOS Homescreen layout configuration
 - [HenryQuan/TSFakeTouch](https://github.com/HenryQuan/TSFakeTouch) - Use PTFakeTouch with theos
-- [Ret70/PTFakeTouch](https://github.com/Ret70/PTFakeTouch) - Simulate touch events for iOS［User mode］
+- [xuanxt/PTFakeTouch](https://github.com/xuanxt/PTFakeTouch) - Simulate touch events for iOS［User mode］
 - [EthanRDoesMC/KBPulse](https://github.com/EthanRDoesMC/KBPulse) - Custom MacBook keyboard backlight animations
 - [EthanRDoesMC/Brooklyn](https://github.com/EthanRDoesMC/Brooklyn) - Helper/wrapper for mautrix-imessage for jailbroken devices
 - [JakeBlair420/Spice](https://github.com/JakeBlair420/Spice) - Spice - an unfinished iOS 11 untether
