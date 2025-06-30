@@ -327,7 +327,7 @@
 - [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [HenryQuan/TSFakeTouch](https://github.com/HenryQuan/TSFakeTouch) - Use PTFakeTouch with theos
-- [Ret70/PTFakeTouch](https://github.com/Ret70/PTFakeTouch) - Simulate touch events for iOS［User mode］
+- [xuanxt/PTFakeTouch](https://github.com/xuanxt/PTFakeTouch) - Simulate touch events for iOS［User mode］
 - [xuan32546/IOS13-SimulateTouch](https://github.com/xuan32546/IOS13-SimulateTouch) - iOS Automation Framework iOS Touch Simulation Library
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
