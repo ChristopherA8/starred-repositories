@@ -103,7 +103,7 @@
 ## android 
 
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 
 ## api 
 
@@ -281,7 +281,7 @@
 
 ## hacking 
 
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [ZaneH/tweak-series](https://github.com/ZaneH/tweak-series) - Repo for YouTube series teaching iOS tweak development.
 
 ## hacktoberfest 
@@ -325,15 +325,15 @@
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [HenryQuan/TSFakeTouch](https://github.com/HenryQuan/TSFakeTouch) - Use PTFakeTouch with theos
 - [xuanxt/PTFakeTouch](https://github.com/xuanxt/PTFakeTouch) - Simulate touch events for iOS［User mode］
 - [xuan32546/IOS13-SimulateTouch](https://github.com/xuan32546/IOS13-SimulateTouch) - iOS Automation Framework iOS Touch Simulation Library
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
-- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
+- [rrk567301/Diary](https://github.com/rrk567301/Diary) - Windows 10/11 lock screen replica
+- [rrk567301/Liddell](https://github.com/rrk567301/Liddell) - Little and colorful notification banners
 - [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [eclair4151/NotiBlock](https://github.com/eclair4151/NotiBlock) - An iOS jailbreak tweak to write custom filters to block notifications
@@ -460,8 +460,8 @@
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
 - [Shade-Zepheri/Nougat](https://github.com/Shade-Zepheri/Nougat) - Android notification shade for iOS
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
-- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
+- [rrk567301/Diary](https://github.com/rrk567301/Diary) - Windows 10/11 lock screen replica
+- [rrk567301/Liddell](https://github.com/rrk567301/Liddell) - Little and colorful notification banners
 - [LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks) - Tweaks I've left open, maybe someone can learn from/correct them.
 - [cbpowell/MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
 - [woodfairy/koi](https://github.com/woodfairy/koi) - cuttlefish remake for iOS 13 & 14
@@ -687,7 +687,7 @@
 ## pentesting 
 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 
 ## perl 
 
@@ -740,7 +740,7 @@
 
 ## reverse-engineering 
 
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
