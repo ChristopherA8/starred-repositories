@@ -263,7 +263,7 @@
 - [YMGPwcca/samsungpowerdown](https://github.com/YMGPwcca/samsungpowerdown) - SamsungPowerDown - Turn your boring Power Down view into Samsung's one!
 - [kabiroberai/ObjectiveScript](https://github.com/kabiroberai/ObjectiveScript) - The ObjectiveScript programming language runtime.
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
-- [kaethchen/Diary](https://github.com/kaethchen/Diary) - Windows 10/11 lock screen replica
+- [rrk567301/Diary](https://github.com/rrk567301/Diary) - Windows 10/11 lock screen replica
 - [ha1lie/windowexample](https://github.com/ha1lie/windowexample) - Simplified floating window example
 - [MegaDevIOS/JellyLock-Reborn](https://github.com/MegaDevIOS/JellyLock-Reborn) - A beautifully simple lockscreen application launcher for iOS 14.
 - [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - 
@@ -354,7 +354,7 @@
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [HearseDev/logos-format](https://github.com/HearseDev/logos-format) - 
 - [xuan32546/IOS13-SimulateTouch](https://github.com/xuan32546/IOS13-SimulateTouch) - iOS Automation Framework iOS Touch Simulation Library
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
@@ -427,7 +427,7 @@
 - [HearseDev/Colorizd](https://github.com/HearseDev/Colorizd) - 
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
 - [elihwyma/ExampleXcodeApp](https://github.com/elihwyma/ExampleXcodeApp) - 
-- [kaethchen/Liddell](https://github.com/kaethchen/Liddell) - Little and colorful notification banners
+- [rrk567301/Liddell](https://github.com/rrk567301/Liddell) - Little and colorful notification banners
 - [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
