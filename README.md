@@ -106,7 +106,6 @@
 - [alberthdev/spasm-ng](https://github.com/alberthdev/spasm-ng) - SPASM-ng is a z80 assembler with extra features to support development for TI calculators.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [DinoZ1729/Ray](https://github.com/DinoZ1729/Ray) - 
-- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP) - Give yourself a Custom Rich Presence in Discord.
 
@@ -173,6 +172,7 @@
 - [DimitarNestorov/RepoOnVercel](https://github.com/DimitarNestorov/RepoOnVercel) - Cydia/APT repo template using Vercel and GitHub Releases
 - [RedenticDev/Repo](https://github.com/RedenticDev/Repo) - 📦 Redentic's tweaks repository
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [alexkotr1/jailbreakbot](https://github.com/alexkotr1/jailbreakbot) - 
 - [3ventic/ytdsc](https://github.com/3ventic/ytdsc) - Youtube Uploads to Discord Webhooks
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
