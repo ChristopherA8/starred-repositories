@@ -68,6 +68,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -705,6 +706,10 @@
 ## programming 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## programming-language 
+
+- [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 
 ## python 
 
