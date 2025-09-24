@@ -100,6 +100,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
+- [zsh](#zsh)
 
 ## android 
 
@@ -892,6 +893,10 @@
 
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
+
+## zsh 
+
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 
 ## License
