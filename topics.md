@@ -100,6 +100,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## android 
@@ -893,6 +894,14 @@
 
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
+
+## youtube 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
+- [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
+- [3ventic/ytdsc](https://github.com/3ventic/ytdsc) - Youtube Uploads to Discord Webhooks
+- [ZaneH/tweak-series](https://github.com/ZaneH/tweak-series) - Repo for YouTube series teaching iOS tweak development.
 
 ## zsh 
 
