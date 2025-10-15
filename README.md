@@ -63,6 +63,7 @@
 - [bazad/blanket](https://github.com/bazad/blanket) - CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 - [Pieman7373/DungeonCE](https://github.com/Pieman7373/DungeonCE) - Game created initially for Cemetech Contest #22
+- [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
 - [jsherman212/iomfb-exploit](https://github.com/jsherman212/iomfb-exploit) - Exploit for CVE-2021-30807
 - [adafruit/TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library) - Arduino library for 8-bit TFT LCDs such as ILI9325, ILI9328, etc
 - [comex/substitute](https://github.com/comex/substitute) - A free runtime modification library.
@@ -100,7 +101,6 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [pritzza/SFML-Project-Starter](https://github.com/pritzza/SFML-Project-Starter) - Just clone, add project template to MSVS, and start your SFML project.
-- [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [adafruit/Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen) - Arduino library for 4-wire resistive touchscreens
 - [alberthdev/spasm-ng](https://github.com/alberthdev/spasm-ng) - SPASM-ng is a z80 assembler with extra features to support development for TI calculators.
