@@ -19,7 +19,6 @@
 - [LOLCODE](#lolcode)
 - [Logos](#logos)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
@@ -176,6 +175,7 @@
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [alexkotr1/jailbreakbot](https://github.com/alexkotr1/jailbreakbot) - 
 - [3ventic/ytdsc](https://github.com/3ventic/ytdsc) - Youtube Uploads to Discord Webhooks
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
@@ -218,10 +218,6 @@
 ## Lua 
 
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
-
-## MDX 
-
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
 ## Makefile 
 
