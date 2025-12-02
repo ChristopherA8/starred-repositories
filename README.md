@@ -161,7 +161,6 @@
 - [Tomato6966/discord-email-gmail-bot](https://github.com/Tomato6966/discord-email-gmail-bot) - Send gmail messages to your discord channel, or other emails TUTORIAL REPO
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [Danktuary/react-discord-message](https://github.com/Danktuary/react-discord-message) - React components to easily build and display fake Discord messages on your webpages.
-- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [mastashake08/discord-twitter-bot](https://github.com/mastashake08/discord-twitter-bot) - A discord bot that sends messages to a channel whenever a specific user tweets.
 - [Aehmlo/udid-enabled-cydia-repo](https://github.com/Aehmlo/udid-enabled-cydia-repo) - Cydia repository written in Node. Includes UDID protection features.
 - [tony-pizza/Stereogram.js](https://github.com/tony-pizza/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
@@ -365,6 +364,7 @@
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [arandomdev/DyldExtractor](https://github.com/arandomdev/DyldExtractor) - Extract Binaries from Apple's Dyld Shared Cache
+- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [Sangster-5/kahoot-flooder](https://github.com/Sangster-5/kahoot-flooder) - Kahoot Bot Flooder
 - [DiscordGIR/gir](https://github.com/DiscordGIR/gir) - 
