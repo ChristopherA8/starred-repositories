@@ -688,7 +688,6 @@
 - [SparkDev97/iOS14-Runtime-Headers](https://github.com/SparkDev97/iOS14-Runtime-Headers) - 
 - [Void122/iosHacks](https://github.com/Void122/iosHacks) - iosHacks
 - [mass1ve-err0r/ClapCase-For-Discord](https://github.com/mass1ve-err0r/ClapCase-For-Discord) - This is uroboro's fault lmao
-- [dbolger/intemperate](https://github.com/dbolger/intemperate) - 🌡 Bypass your iOS device's thermal lockout.
 - [theos/logos](https://github.com/theos/logos) - Preprocessor that simplifies Objective-C hooking.
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [emy/janet](https://github.com/emy/janet) - Bot for the rjb community discord
