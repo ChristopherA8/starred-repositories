@@ -210,7 +210,6 @@
 - [ZaneH/tweak-series](https://github.com/ZaneH/tweak-series) - Repo for YouTube series teaching iOS tweak development.
 - [n3oney/NudeDock](https://github.com/n3oney/NudeDock) - Remove the background from your dock.
 - [mass1ve-err0r/ClapCase-For-Discord](https://github.com/mass1ve-err0r/ClapCase-For-Discord) - This is uroboro's fault lmao
-- [dbolger/intemperate](https://github.com/dbolger/intemperate) - 🌡 Bypass your iOS device's thermal lockout.
 - [quiprr/RedditNA](https://github.com/quiprr/RedditNA) - An 8 line tweak to disable ads on the Reddit app.
 - [qwertyuiop1379/Tweaks](https://github.com/qwertyuiop1379/Tweaks) - All of my open sourced tweaks
 
