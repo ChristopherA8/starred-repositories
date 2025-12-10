@@ -47,7 +47,7 @@
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
