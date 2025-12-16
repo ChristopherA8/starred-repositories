@@ -203,7 +203,6 @@
 - [gilshahar7/AVLock](https://github.com/gilshahar7/AVLock) - Jailbreak tweak: add an orientation lock button to the stock iOS video player.
 - [nathanwhit/Springfinity](https://github.com/nathanwhit/Springfinity) - A remake of Infiniboard by chpwn, made for iOS 11-12
 - [sohsatoh/FreePIP](https://github.com/sohsatoh/FreePIP) - FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
-- [p2kdev/RingPercentLabel](https://github.com/p2kdev/RingPercentLabel) - Percent Labels for the Battery Widget Rings!
 - [majd/libTransLock](https://github.com/majd/libTransLock) - Bruteforce the 4-digit passcode on iOS 8
 - [alexPNG/Shake2Toggle](https://github.com/alexPNG/Shake2Toggle) - Shake2Toggle by alex_png - Control your device with shakes!
 - [kritanta-ios-tweaks/ShakeLight](https://github.com/kritanta-ios-tweaks/ShakeLight) - shake for light
