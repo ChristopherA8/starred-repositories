@@ -321,7 +321,6 @@
 - [SynnyG/DailyIcons](https://github.com/SynnyG/DailyIcons) - 
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [tweakweek/RandomFlip](https://github.com/tweakweek/RandomFlip) - 
 - [teamleviathan/frcoal-tweak-development-guide](https://github.com/teamleviathan/frcoal-tweak-development-guide) - Learn how to make iOS tweaks with frcoal's tweak development guide!
 - [SparkDev97/iOS14-Runtime-Headers](https://github.com/SparkDev97/iOS14-Runtime-Headers) - 
