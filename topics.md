@@ -14,7 +14,6 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [bot](#bot)
-- [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
@@ -155,10 +154,6 @@
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot!
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
-
-## bugbounty 
-
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 
 ## c 
 
