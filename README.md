@@ -268,7 +268,7 @@
 - [lukapool/LKAWaveCircleProgressBar](https://github.com/lukapool/LKAWaveCircleProgressBar) - 一款带有双波浪动画的圆形进度指示器
 - [xiaochaofeiyu/YSCAnimation](https://github.com/xiaochaofeiyu/YSCAnimation) - 
 - [ryannair05/Little12](https://github.com/ryannair05/Little12) - iPhone 12 gestures and more for iOS 14
-- [MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation) - This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.
+- [MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation) - This is the documentation for LibGcUniversal, a universal library for iOS tweaks that focuses mainly on providing improved preferences.
 - [eclair4151/NotiBlock](https://github.com/eclair4151/NotiBlock) - An iOS jailbreak tweak to write custom filters to block notifications
 - [ryannair05/Snoverlay-2](https://github.com/ryannair05/Snoverlay-2) - Falling Snowflakes for iOS Devices
 - [Muirey03/libimagepicker](https://github.com/Muirey03/libimagepicker) - A simple library for choosing images in preference bundles.
