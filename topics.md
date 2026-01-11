@@ -616,7 +616,7 @@
 - [mastashake08/discord-twitter-bot](https://github.com/mastashake08/discord-twitter-bot) - A discord bot that sends messages to a channel whenever a specific user tweets.
 - [Aehmlo/udid-enabled-cydia-repo](https://github.com/Aehmlo/udid-enabled-cydia-repo) - Cydia repository written in Node. Includes UDID protection features.
 - [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header
-- [MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation) - This repo contains documentation for LibGcUniversal, a universal library for iOS Tweaks, mainly focused on providing improved preferences.
+- [MrGcGamer/LibGcUniversalDocumentation](https://github.com/MrGcGamer/LibGcUniversalDocumentation) - This is the documentation for LibGcUniversal, a universal library for iOS tweaks that focuses mainly on providing improved preferences.
 - [ryannair05/Snoverlay-2](https://github.com/ryannair05/Snoverlay-2) - Falling Snowflakes for iOS Devices
 - [Muirey03/libimagepicker](https://github.com/Muirey03/libimagepicker) - A simple library for choosing images in preference bundles.
 - [nathanwhit/Springfinity](https://github.com/nathanwhit/Springfinity) - A remake of Infiniboard by chpwn, made for iOS 11-12
