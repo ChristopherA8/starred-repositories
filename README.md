@@ -49,7 +49,6 @@
 - [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
-- [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [Billy-Ellis/framebuffer_write](https://github.com/Billy-Ellis/framebuffer_write) - A tool to write text to the iOS screen by directly modifying the pixel information in the framebuffer
@@ -241,6 +240,7 @@
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [akosma/nib2objc](https://github.com/akosma/nib2objc) - Set of tools and utilities (command line, GUI, Mac Service) to transform NIB files for the iPhone into Objective-C code files
+- [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
 - [brutella/chatheads](https://github.com/brutella/chatheads) - An implementation of Facebook's ChatHeads on iOS.
 - [facebookarchive/Shimmer](https://github.com/facebookarchive/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
