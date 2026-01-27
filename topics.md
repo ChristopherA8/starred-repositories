@@ -343,7 +343,7 @@
 - [aydenp/TranslucentMessages](https://github.com/aydenp/TranslucentMessages) - Make the iOS Messages app translucent!
 - [rrk567301/Diary](https://github.com/rrk567301/Diary) - Windows 10/11 lock screen replica
 - [rrk567301/Liddell](https://github.com/rrk567301/Liddell) - Little and colorful notification banners
-- [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
+- [tbxark/TKSwitcherCollection](https://github.com/tbxark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [eclair4151/NotiBlock](https://github.com/eclair4151/NotiBlock) - An iOS jailbreak tweak to write custom filters to block notifications
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
@@ -826,7 +826,7 @@
 - [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
 - [DerekSelander/dsdump](https://github.com/DerekSelander/dsdump) - An improved nm + Objective-C & Swift class-dump
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
-- [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
+- [tbxark/TKSwitcherCollection](https://github.com/tbxark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [cbpowell/MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
 - [DavydLiu/DLRadioButton](https://github.com/DavydLiu/DLRadioButton) - Radio Button for iOS
@@ -870,7 +870,7 @@
 
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
-- [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
+- [tbxark/TKSwitcherCollection](https://github.com/tbxark/TKSwitcherCollection) - An animation switch collection
 
 ## video 
 
