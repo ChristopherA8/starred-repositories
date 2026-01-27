@@ -427,7 +427,7 @@
 - [AsadAzam/DiscordX](https://github.com/AsadAzam/DiscordX) - Xcode Discord Integration works with Xcode 13 and has all the latest icons.
 - [elihwyma/ExampleXcodeApp](https://github.com/elihwyma/ExampleXcodeApp) - 
 - [rrk567301/Liddell](https://github.com/rrk567301/Liddell) - Little and colorful notification banners
-- [TBXark/TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection
+- [tbxark/TKSwitcherCollection](https://github.com/tbxark/TKSwitcherCollection) - An animation switch collection
 - [lionhylra/iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names) - A handy cheatsheet for calling UIFont(name: size:)
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [EamonTracey/iPatch](https://github.com/EamonTracey/iPatch) - GUI tool to inject dynamic libraries into IPA files
