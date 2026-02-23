@@ -267,7 +267,7 @@
 - [rrk567301/Diary](https://github.com/rrk567301/Diary) - Windows 10/11 lock screen replica
 - [ha1lie/windowexample](https://github.com/ha1lie/windowexample) - Simplified floating window example
 - [MegaDevIOS/JellyLock-Reborn](https://github.com/MegaDevIOS/JellyLock-Reborn) - A beautifully simple lockscreen application launcher for iOS 14.
-- [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - 
+- [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - A tweak that does something weird to notifications.
 - [cellomonster/iOS-Raspberry](https://github.com/cellomonster/iOS-Raspberry) - A Discord app for iOS 5+
 - [lukapool/LKAWaveCircleProgressBar](https://github.com/lukapool/LKAWaveCircleProgressBar) - 一款带有双波浪动画的圆形进度指示器
 - [xiaochaofeiyu/YSCAnimation](https://github.com/xiaochaofeiyu/YSCAnimation) - 
