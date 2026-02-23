@@ -609,7 +609,7 @@
 - [gilshahar7/AVLock](https://github.com/gilshahar7/AVLock) - Jailbreak tweak: add an orientation lock button to the stock iOS video player.
 - [MegaDevIOS/JellyLock-Reborn](https://github.com/MegaDevIOS/JellyLock-Reborn) - A beautifully simple lockscreen application launcher for iOS 14.
 - [MrGcGamer/NoDNDBanner](https://github.com/MrGcGamer/NoDNDBanner) - 
-- [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - 
+- [Baw-Appie/Axon](https://github.com/Baw-Appie/Axon) - A tweak that does something weird to notifications.
 - [pattern-f/xattr-oob-swap](https://github.com/pattern-f/xattr-oob-swap) - Demo exploit code for CVE-2020-27904, a tfp0 bug.
 - [cellomonster/iOS-Raspberry](https://github.com/cellomonster/iOS-Raspberry) - A Discord app for iOS 5+
 - [lukapool/LKAWaveCircleProgressBar](https://github.com/lukapool/LKAWaveCircleProgressBar) - 一款带有双波浪动画的圆形进度指示器
