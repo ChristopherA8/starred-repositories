@@ -45,6 +45,7 @@
 
 ## C 
 
+- [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
@@ -190,6 +191,7 @@
 
 ## LOLCODE 
 
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 - [justinmeza/httpd.lol](https://github.com/justinmeza/httpd.lol) - A minimal HTTP server written in LOLCODE.
 
 ## Logos 
