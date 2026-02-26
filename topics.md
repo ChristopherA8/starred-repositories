@@ -158,6 +158,7 @@
 
 ## c 
 
+- [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 
@@ -483,6 +484,7 @@
 
 ## others 
 
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 - [FeatureNAB/smart-sensor-battery-pack](https://github.com/FeatureNAB/smart-sensor-battery-pack) - KiCad Design files for the Smart Sensor Battery Pack project
 - [kripod/chip8-roms](https://github.com/kripod/chip8-roms) - ROMs for CHIP-8.
 - [alan994/infoeduka](https://github.com/alan994/infoeduka) - 
@@ -716,6 +718,7 @@
 
 ## programming-language 
 
+- [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 
 ## python 
