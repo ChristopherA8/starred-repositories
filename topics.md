@@ -31,6 +31,7 @@
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [fastapi](#fastapi)
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
@@ -250,6 +251,10 @@
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
+
+## fastapi 
+
+- [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
 
 ## font 
 
