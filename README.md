@@ -219,7 +219,7 @@
 
 ## MDX 
 
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord Developer Docs
 
 ## Makefile 
 
