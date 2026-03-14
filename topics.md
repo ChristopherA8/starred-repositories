@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [api](#api)
 - [arduino](#arduino)
@@ -52,6 +53,7 @@
 - [json](#json)
 - [language](#language)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [material-design](#material-design)
@@ -105,6 +107,10 @@
 - [xcode](#xcode)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## ai 
+
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 
 ## android 
 
@@ -395,6 +401,7 @@
 
 ## language 
 
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 
 ## linux 
@@ -405,6 +412,10 @@
 - [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility) - An unofficial GoXLR App replacement for Linux, Windows and MacOS
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+
+## llm 
+
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 
 ## machine-learning 
 
@@ -489,7 +500,6 @@
 
 ## others 
 
-- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 - [FeatureNAB/smart-sensor-battery-pack](https://github.com/FeatureNAB/smart-sensor-battery-pack) - KiCad Design files for the Smart Sensor Battery Pack project
 - [kripod/chip8-roms](https://github.com/kripod/chip8-roms) - ROMs for CHIP-8.
 - [alan994/infoeduka](https://github.com/alan994/infoeduka) - 
@@ -719,6 +729,7 @@
 
 ## programming 
 
+- [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## programming-language 
