@@ -45,6 +45,7 @@
 
 ## C 
 
+- [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
@@ -93,6 +94,7 @@
 
 ## C++ 
 
+- [CoreBedtime/ammonia](https://github.com/CoreBedtime/ammonia) - macos tweak system
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
@@ -238,6 +240,11 @@
 
 ## Objective-C 
 
+- [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
+- [cmsj/ApplePrivateHeaders](https://github.com/cmsj/ApplePrivateHeaders) - A smattering of header files dumped using classdump-dyld
+- [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld) - a classdump-dyld fork works on macOS m1
+- [mstg/OSX-Runtime-Headers](https://github.com/mstg/OSX-Runtime-Headers) - Runtime headers for OS X
+- [aspauldingcode/apple-sharpener](https://github.com/aspauldingcode/apple-sharpener) - square macos windows - a plugin for use with ammonia injector
 - [XueshiQiao/QuickFind](https://github.com/XueshiQiao/QuickFind) - A Xcode plugin to help you find/search something more quickly and more conveniently.
 - [brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader) - 
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
@@ -321,7 +328,7 @@
 - [crystall1nedev/signing-apt-repo-faq](https://github.com/crystall1nedev/signing-apt-repo-faq) - How to sign an APT repository... correctly.
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [NightwindDev/Preference-Bundle-Example](https://github.com/NightwindDev/Preference-Bundle-Example) - Some information about preference bundles and the different cells in there.
-- [0cyn/Guides](https://github.com/0cyn/Guides) - A compilation of guides I've written on various things
+- [cyn-nonsense/Guides](https://github.com/cyn-nonsense/Guides) - A compilation of guides I've written on various things
 - [EvanDbg/TweakBuilderAction](https://github.com/EvanDbg/TweakBuilderAction) - 
 - [repostandards/Specification](https://github.com/repostandards/Specification) - Standardized Repository Specification
 - [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header
