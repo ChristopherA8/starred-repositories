@@ -423,6 +423,7 @@
 
 ## macos 
 
+- [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld) - a classdump-dyld fork works on macOS m1
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [LIJI32/MIP](https://github.com/LIJI32/MIP) - MIP – macOS Injection Platform
@@ -500,6 +501,12 @@
 
 ## others 
 
+- [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
+- [cmsj/ApplePrivateHeaders](https://github.com/cmsj/ApplePrivateHeaders) - A smattering of header files dumped using classdump-dyld
+- [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
+- [mstg/OSX-Runtime-Headers](https://github.com/mstg/OSX-Runtime-Headers) - Runtime headers for OS X
+- [aspauldingcode/apple-sharpener](https://github.com/aspauldingcode/apple-sharpener) - square macos windows - a plugin for use with ammonia injector
+- [CoreBedtime/ammonia](https://github.com/CoreBedtime/ammonia) - macos tweak system
 - [FeatureNAB/smart-sensor-battery-pack](https://github.com/FeatureNAB/smart-sensor-battery-pack) - KiCad Design files for the Smart Sensor Battery Pack project
 - [kripod/chip8-roms](https://github.com/kripod/chip8-roms) - ROMs for CHIP-8.
 - [alan994/infoeduka](https://github.com/alan994/infoeduka) - 
@@ -607,7 +614,7 @@
 - [ProjectManticore/Manticore](https://github.com/ProjectManticore/Manticore) - iOS Jailbreak based on cicuta_virosa by ModernPwner and Pattern F's pre-jailbreak's amfid bypass.
 - [mass1ve-err0r/unibi-OSS](https://github.com/mass1ve-err0r/unibi-OSS) - A Collection of full & partial code for CompSci / IT students -powered by me @UniBielefeld
 - [NightwindDev/Preference-Bundle-Example](https://github.com/NightwindDev/Preference-Bundle-Example) - Some information about preference bundles and the different cells in there.
-- [0cyn/Guides](https://github.com/0cyn/Guides) - A compilation of guides I've written on various things
+- [cyn-nonsense/Guides](https://github.com/cyn-nonsense/Guides) - A compilation of guides I've written on various things
 - [royalgraphx/Gladden](https://github.com/royalgraphx/Gladden) - A Tweak and Reverse Engineering info dump of GamerDelights' GamePigeon, named Gladden.
 - [YMGPwcca/samsungpowerdown](https://github.com/YMGPwcca/samsungpowerdown) - SamsungPowerDown - Turn your boring Power Down view into Samsung's one!
 - [p0358/bfdecrypt](https://github.com/p0358/bfdecrypt) - iOS tool to decrypt App Store apps on jailbroken phones
