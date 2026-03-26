@@ -355,6 +355,7 @@
 
 ## Python 
 
+- [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
