@@ -501,6 +501,7 @@
 
 ## others 
 
+- [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
 - [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
 - [cmsj/ApplePrivateHeaders](https://github.com/cmsj/ApplePrivateHeaders) - A smattering of header files dumped using classdump-dyld
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
