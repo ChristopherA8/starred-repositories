@@ -423,6 +423,8 @@
 
 ## macos 
 
+- [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
+- [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld) - a classdump-dyld fork works on macOS m1
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
@@ -482,6 +484,7 @@
 
 ## objective-c 
 
+- [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [DerekSelander/dsdump](https://github.com/DerekSelander/dsdump) - An improved nm + Objective-C & Swift class-dump
 - [donato-fiore/GameSeagull](https://github.com/donato-fiore/GameSeagull) - A Tweak for GamerDelights' GamePigeon
@@ -501,7 +504,8 @@
 
 ## others 
 
-- [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
+- [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
+- [cocoadev/cocoadev.github.io](https://github.com/cocoadev/cocoadev.github.io) - The site formerly known as CocoaDev
 - [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
 - [cmsj/ApplePrivateHeaders](https://github.com/cmsj/ApplePrivateHeaders) - A smattering of header files dumped using classdump-dyld
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
@@ -902,6 +906,7 @@
 
 ## video 
 
+- [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 
