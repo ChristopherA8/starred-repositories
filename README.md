@@ -127,6 +127,7 @@
 
 ## HTML 
 
+- [cocoadev/cocoadev.github.io](https://github.com/cocoadev/cocoadev.github.io) - The site formerly known as CocoaDev
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [leyarotheconquerer/lolcode-reference](https://github.com/leyarotheconquerer/lolcode-reference) - Reference for the LOLCODE language.
 - [Shugabuga/StickerPack](https://github.com/Shugabuga/StickerPack) - A collection of stickers and emotes found in Shuga Sticker Pack.
@@ -240,6 +241,9 @@
 
 ## Objective-C 
 
+- [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
+- [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
+- [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
 - [cmsj/ApplePrivateHeaders](https://github.com/cmsj/ApplePrivateHeaders) - A smattering of header files dumped using classdump-dyld
 - [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld) - a classdump-dyld fork works on macOS m1
