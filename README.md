@@ -143,6 +143,7 @@
 
 ## JavaScript 
 
+- [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
@@ -241,6 +242,7 @@
 
 ## Objective-C 
 
+- [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
 - [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
@@ -417,6 +419,7 @@
 
 ## Swift 
 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
