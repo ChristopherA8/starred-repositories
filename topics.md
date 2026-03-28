@@ -45,6 +45,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [html5](#html5)
 - [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
@@ -326,6 +327,10 @@
 
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 
+## html5 
+
+- [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
+
 ## instagram 
 
 - [shima11/FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
@@ -378,6 +383,7 @@
 
 ## javascript 
 
+- [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
 - [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.
@@ -504,6 +510,8 @@
 
 ## others 
 
+- [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
 - [cocoadev/cocoadev.github.io](https://github.com/cocoadev/cocoadev.github.io) - The site formerly known as CocoaDev
 - [rennnss/hidelights](https://github.com/rennnss/hidelights) - A macos tweak that works on apps to only reveal the traffic lights when hovered over.
