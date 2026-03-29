@@ -45,6 +45,7 @@
 
 ## C 
 
+- [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
@@ -419,6 +420,8 @@
 
 ## Swift 
 
+- [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+- [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
