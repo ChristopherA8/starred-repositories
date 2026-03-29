@@ -100,6 +100,7 @@
 - [ui](#ui)
 - [video](#video)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -340,6 +341,7 @@
 
 ## ios 
 
+- [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
@@ -429,6 +431,7 @@
 
 ## macos 
 
+- [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld) - a classdump-dyld fork works on macOS m1
@@ -510,6 +513,7 @@
 
 ## others 
 
+- [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
@@ -849,6 +853,8 @@
 
 ## swift 
 
+- [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+- [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
@@ -873,6 +879,7 @@
 
 ## swiftui 
 
+- [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
@@ -908,6 +915,7 @@
 
 ## ui 
 
+- [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
 - [tbxark/TKSwitcherCollection](https://github.com/tbxark/TKSwitcherCollection) - An animation switch collection
@@ -921,6 +929,10 @@
 ## visual-studio-code 
 
 - [arwinneil/vscode-lolcode](https://github.com/arwinneil/vscode-lolcode) - LOLCODE Language Support for Visual Studio Code. 😺
+
+## visualization 
+
+- [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 
 ## vue 
 
