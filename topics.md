@@ -32,6 +32,7 @@
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [font](#font)
 - [framework](#framework)
@@ -263,6 +264,10 @@
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
+
+## esp32 
+
+- [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 
 ## fastapi 
 
@@ -524,6 +529,7 @@
 
 ## others 
 
+- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - A hardened debugging inspector for macOS.
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
