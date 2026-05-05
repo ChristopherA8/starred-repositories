@@ -45,6 +45,7 @@
 
 ## C 
 
+- [CoreBedtime/graft](https://github.com/CoreBedtime/graft) - 
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
@@ -422,6 +423,7 @@
 
 ## Swift 
 
+- [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
 - [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - A hardened debugging inspector for macOS.
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
