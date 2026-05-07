@@ -49,7 +49,7 @@
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
-- [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
+- [NT-for-ASi/apple_silicon_platforms_mu](https://github.com/NT-for-ASi/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis
 - [Aodrulez/blueTag](https://github.com/Aodrulez/blueTag) - JTAGulator alternative & a hardware hacker's multi-tool for RP2040 microcontroller based development boards including RPi Pico & RP2040-Zero
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
