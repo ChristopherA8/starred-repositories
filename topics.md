@@ -553,7 +553,7 @@
 - [kripod/chip8-roms](https://github.com/kripod/chip8-roms) - ROMs for CHIP-8.
 - [alan994/infoeduka](https://github.com/alan994/infoeduka) - 
 - [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
-- [AppleWOA/apple_silicon_platforms_mu](https://github.com/AppleWOA/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
+- [NT-for-ASi/apple_silicon_platforms_mu](https://github.com/NT-for-ASi/apple_silicon_platforms_mu) - Project Mu implementation for Apple silicon platforms (WIP)
 - [mroi/apple-internals](https://github.com/mroi/apple-internals) - information and tools to understand the internals of Apple’s operating systems
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
 - [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
