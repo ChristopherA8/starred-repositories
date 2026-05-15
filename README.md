@@ -246,6 +246,7 @@
 
 ## Objective-C 
 
+- [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
 - [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
