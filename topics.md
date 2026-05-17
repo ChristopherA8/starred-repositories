@@ -337,6 +337,7 @@
 
 ## home-assistant 
 
+- [BrunoAFK/zagreb_transit](https://github.com/BrunoAFK/zagreb_transit) - Combines ZET static GTFS and realtime feeds to provide route boards, nearby departures, and dynamically managed watch sensors.
 - [tsunglung/XiaomiAirFryer](https://github.com/tsunglung/XiaomiAirFryer) - Xiaomi Smart Air Fryer integration for Home Assistant
 
 ## html 
@@ -534,6 +535,8 @@
 
 ## others 
 
+- [Cyber3x/strummy](https://github.com/Cyber3x/strummy) - CLI Guitar strumming practice tool written in Rust.
+- [ikicic/zet](https://github.com/ikicic/zet) - ZET live map
 - [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 - [CoreBedtime/graft](https://github.com/CoreBedtime/graft) - 
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
