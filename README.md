@@ -366,6 +366,8 @@
 
 ## Python 
 
+- [BrunoAFK/zagreb_transit](https://github.com/BrunoAFK/zagreb_transit) - Combines ZET static GTFS and realtime feeds to provide route boards, nearby departures, and dynamically managed watch sensors.
+- [ikicic/zet](https://github.com/ikicic/zet) - ZET live map
 - [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
@@ -402,6 +404,7 @@
 
 ## Rust 
 
+- [Cyber3x/strummy](https://github.com/Cyber3x/strummy) - CLI Guitar strumming practice tool written in Rust.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility) - An unofficial GoXLR App replacement for Linux, Windows and MacOS
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
