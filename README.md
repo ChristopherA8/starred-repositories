@@ -96,6 +96,7 @@
 
 ## C++ 
 
+- [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [CoreBedtime/ammonia](https://github.com/CoreBedtime/ammonia) - macos tweak system
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
 
@@ -246,6 +248,7 @@
 
 ## Objective-C 
 
+- [Nokia-guy123/RWFileManager](https://github.com/Nokia-guy123/RWFileManager) - Dylib injected file manager for iOS apps
 - [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [MTACS/Slices](https://github.com/MTACS/Slices) - WIP View hierarchy viewer for macOS
