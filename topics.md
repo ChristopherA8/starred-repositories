@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [android](#android)
 - [api](#api)
 - [arduino](#arduino)
@@ -19,6 +20,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -26,6 +28,7 @@
 - [css](#css)
 - [data-analysis](#data-analysis)
 - [database](#database)
+- [developer-tools](#developer-tools)
 - [discord](#discord)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
@@ -79,6 +82,7 @@
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -119,6 +123,10 @@
 ## ai 
 
 - [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
+
+## ai-agents 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## android 
 
@@ -192,6 +200,10 @@
 - [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 
+## claude-code 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
 ## cli 
 
 - [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
@@ -228,6 +240,10 @@
 
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+
+## developer-tools 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## discord 
 
@@ -466,6 +482,7 @@
 
 ## llm 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [justinmeza/lollm](https://github.com/justinmeza/lollm) - A language model trained entirely from LOLCODE
 
 ## machine-learning 
@@ -812,6 +829,10 @@
 
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
+
+## prompt-engineering 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## python 
 
