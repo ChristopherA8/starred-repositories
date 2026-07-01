@@ -179,7 +179,6 @@
 - [tony-pizza/Stereogram.js](https://github.com/tony-pizza/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
 - [Olympta/SignedBot](https://github.com/Olympta/SignedBot) - A simple bot that checks if Jailbreaks.app is signed or not.
 - [ewliang/Gmail-Bot](https://github.com/ewliang/Gmail-Bot) - A simple Gmail bot I created in Node.js to help actively filter my emails. The motivation behind this project is due to the fact that some random recruiters don't bother looking at my resume which cle
-- [NedAckland/DogeBot](https://github.com/NedAckland/DogeBot) - 
 - [dogegarden/dogehouse.js](https://github.com/dogegarden/dogehouse.js) - Client-side implementation of DogeHouse API.
 - [DimitarNestorov/RepoOnVercel](https://github.com/DimitarNestorov/RepoOnVercel) - Cydia/APT repo template using Vercel and GitHub Releases
 - [RedenticDev/Repo](https://github.com/RedenticDev/Repo) - 📦 Redentic's tweaks repository
