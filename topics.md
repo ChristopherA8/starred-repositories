@@ -743,7 +743,6 @@
 - [Olympta/SignedBot](https://github.com/Olympta/SignedBot) - A simple bot that checks if Jailbreaks.app is signed or not.
 - [theos/sdks](https://github.com/theos/sdks) - Patched sdks that include private framework tbds
 - [SparkDev97/libSparkColourPicker](https://github.com/SparkDev97/libSparkColourPicker) - Spark's Colour Picker Library
-- [NedAckland/DogeBot](https://github.com/NedAckland/DogeBot) - 
 - [23Aaron/Betelguese](https://github.com/23Aaron/Betelguese) - 
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [dogegarden/dogehouse.js](https://github.com/dogegarden/dogehouse.js) - Client-side implementation of DogeHouse API.
