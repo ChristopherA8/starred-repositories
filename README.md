@@ -371,7 +371,6 @@
 ## Python 
 
 - [BrunoAFK/zagreb_transit](https://github.com/BrunoAFK/zagreb_transit) - Combines ZET static GTFS and realtime feeds to provide route boards, nearby departures, and dynamically managed watch sensors.
-- [ikicic/zet](https://github.com/ikicic/zet) - ZET live map
 - [LucasHJin/vit](https://github.com/LucasHJin/vit) - Git for video editing.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [mindesclabs/zetgtfsdemo](https://github.com/mindesclabs/zetgtfsdemo) - Demo near real-time Dash dahsboard for ZET public transport
@@ -476,6 +475,7 @@
 
 ## TypeScript 
 
+- [ikicic/zet](https://github.com/ikicic/zet) - ZET live map
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [MinecraftJS/rcon](https://github.com/MinecraftJS/rcon) - RCON Minecraft client written in TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
