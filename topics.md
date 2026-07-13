@@ -761,7 +761,7 @@
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
-- [DinoZ1729/Ray](https://github.com/DinoZ1729/Ray) - 
+- [Dino-Zunic/Ray](https://github.com/Dino-Zunic/Ray) - 
 - [haoerloveyou/Columba](https://github.com/haoerloveyou/Columba) - Columba for iOS 9
 - [etra0/botw-freecam](https://github.com/etra0/botw-freecam) - Freecam for the game Zelda: Breath of the Wild for the Wii U using the Cemu emulator
 - [InternalStore/InternalEnabler](https://github.com/InternalStore/InternalEnabler) - Enables certain internal features on production builds of iOS.
