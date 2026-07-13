@@ -114,7 +114,7 @@
 - [adafruit/Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen) - Arduino library for 4-wire resistive touchscreens
 - [alberthdev/spasm-ng](https://github.com/alberthdev/spasm-ng) - SPASM-ng is a z80 assembler with extra features to support development for TI calculators.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [DinoZ1729/Ray](https://github.com/DinoZ1729/Ray) - 
+- [Dino-Zunic/Ray](https://github.com/Dino-Zunic/Ray) - 
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP) - Give yourself a Custom Rich Presence in Discord.
 
