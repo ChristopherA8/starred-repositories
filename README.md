@@ -399,7 +399,7 @@
 - [DiscordGIR/gir](https://github.com/DiscordGIR/gir) - 
 - [sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SuperKit_Python_code_for_RaspberryPi) - Sunfounder Super Kit Python code for Raspberry Pi
 - [AndyTempel/dblapi](https://github.com/AndyTempel/dblapi) - Discord Bots List API Wrapper. Customized for use in discord.py
-- [0cyn/election](https://github.com/0cyn/election) - 
+- [cyn-nonsense/election](https://github.com/cyn-nonsense/election) - 
 
 ## QML 
 
