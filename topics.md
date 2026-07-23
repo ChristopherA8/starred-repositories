@@ -938,6 +938,7 @@
 
 ## swift 
 
+- [nextbike/phrase-swift](https://github.com/nextbike/phrase-swift) - Use curly bracket placeholders within strings and be able to use the same localization phrases as on Android.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
