@@ -432,7 +432,7 @@
 
 - [nextbike/phrase-swift](https://github.com/nextbike/phrase-swift) - Use curly bracket placeholders within strings and be able to use the same localization phrases as on Android.
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
-- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - A hardened debugging inspector for macOS.
+- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - Dig into what should be yours.
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
