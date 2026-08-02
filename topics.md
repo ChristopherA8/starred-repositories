@@ -591,7 +591,7 @@
 - [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
-- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - A hardened debugging inspector for macOS.
+- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - Dig into what should be yours.
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
