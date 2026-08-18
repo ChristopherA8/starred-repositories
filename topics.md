@@ -758,7 +758,7 @@
 - [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
 - [sohsatoh/FreePIP](https://github.com/sohsatoh/FreePIP) - FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
 - [Dino-Zunic/Ray](https://github.com/Dino-Zunic/Ray) - 
