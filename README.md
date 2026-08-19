@@ -409,7 +409,7 @@
 
 - [Cyber3x/strummy](https://github.com/Cyber3x/strummy) - CLI Guitar strumming practice tool written in Rust.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility) - THE ONLY LEGITIMATE PLACE TO DOWNLOAD THE GOXLR UTILITY
+- [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility) - An unofficial tool to configure and control a TC-Helicon GoXLR or GoXLR Mini on Linux, MacOS and Windows.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [etra0/botw-freecam](https://github.com/etra0/botw-freecam) - Freecam for the game Zelda: Breath of the Wild for the Wii U using the Cemu emulator
 
