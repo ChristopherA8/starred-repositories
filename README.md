@@ -477,7 +477,7 @@
 ## TypeScript 
 
 - [ikicic/zet](https://github.com/ikicic/zet) - ZET live map
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [MinecraftJS/rcon](https://github.com/MinecraftJS/rcon) - RCON Minecraft client written in TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [Infamoustrey/bible-gateway-api](https://github.com/Infamoustrey/bible-gateway-api) - 
