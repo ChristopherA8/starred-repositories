@@ -483,6 +483,7 @@
 
 ## linux 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
@@ -501,6 +502,7 @@
 
 ## macos 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [MTACS/Zephyr](https://github.com/MTACS/Zephyr) - Zephyr tweak for macOS Dock
@@ -584,6 +586,9 @@
 
 ## others 
 
+- [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
+- [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
+- [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac) - A Mac OS X bootloader for the Nintendo Wii.
 - [CoreBedtime/playground](https://github.com/CoreBedtime/playground) - arm64 macos tweak injector
 - [Nokia-guy123/RWFileManager](https://github.com/Nokia-guy123/RWFileManager) - Dylib injected file manager for iOS apps
 - [Cyber3x/strummy](https://github.com/Cyber3x/strummy) - CLI Guitar strumming practice tool written in Rust.
@@ -938,6 +943,7 @@
 
 ## swift 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [nextbike/phrase-swift](https://github.com/nextbike/phrase-swift) - Use curly bracket placeholders within strings and be able to use the same localization phrases as on Android.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
@@ -966,6 +972,7 @@
 
 ## swiftui 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [NSAntoine/Artemisia](https://github.com/NSAntoine/Artemisia) - Beautify your Volume & Brightness HUD.
@@ -990,6 +997,7 @@
 
 ## tui 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 
 ## twitter 
@@ -1043,6 +1051,7 @@
 
 ## windows 
 
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 
