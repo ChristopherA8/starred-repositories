@@ -45,6 +45,7 @@
 
 ## C 
 
+- [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac) - A Mac OS X bootloader for the Nintendo Wii.
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [keith/dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) - A CLI for extracting libraries from Apple's dyld shared cache file
 - [justinmeza/lci](https://github.com/justinmeza/lci) - A LOLCODE interpreter written in C.
@@ -430,6 +431,9 @@
 
 ## Swift 
 
+- [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
+- [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
+- [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [nextbike/phrase-swift](https://github.com/nextbike/phrase-swift) - Use curly bracket placeholders within strings and be able to use the same localization phrases as on Android.
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
 - [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - Dig into what should be yours.
