@@ -416,6 +416,7 @@
 
 ## Shell 
 
+- [nikolas-n/Speedport-Plus-Cosmote-Router-hacks](https://github.com/nikolas-n/Speedport-Plus-Cosmote-Router-hacks) - Exploring the Sercomm made router of Cosmote - OTE Group (Deutsche Telekom in Greece)
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jooeungen/iMessage-sticker-app-icon-generator](https://github.com/jooeungen/iMessage-sticker-app-icon-generator) - This helps you generate all the necessary app icons for iMessage Sticker project with one command!
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
