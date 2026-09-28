@@ -597,7 +597,7 @@
 - [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
-- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - Dig into what should be yours.
+- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - 
 - [DerekSelander/symbol-interposing](https://github.com/DerekSelander/symbol-interposing) - 
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -761,7 +761,7 @@
 - [PoomSmart/PhotoTorch](https://github.com/PoomSmart/PhotoTorch) - Adjustable torch for camera app.
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [DimitarNestorov/RepoOnVercel](https://github.com/DimitarNestorov/RepoOnVercel) - Cydia/APT repo template using Vercel and GitHub Releases
-- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - Issue tracker for Animechan, the anime quotes API. Source code is private.
 - [sohsatoh/FreePIP](https://github.com/sohsatoh/FreePIP) - FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
