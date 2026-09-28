@@ -437,7 +437,7 @@
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 - [nextbike/phrase-swift](https://github.com/nextbike/phrase-swift) - Use curly bracket placeholders within strings and be able to use the same localization phrases as on Android.
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
-- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - Dig into what should be yours.
+- [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - 
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -492,7 +492,7 @@
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters.
 - [MatteZ02/discord-interactions](https://github.com/MatteZ02/discord-interactions) - A simple to use discord interactionClient
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - Issue tracker for Animechan, the anime quotes API. Source code is private.
 - [Yes-Theory-Fam/yesbot-ts](https://github.com/Yes-Theory-Fam/yesbot-ts) - Codebase for the production bot on https://discord.gg/yestheory
 - [ChristopherA8/ICOC-Teens](https://github.com/ChristopherA8/ICOC-Teens) - Discord bot for ICOC Teens Discord Server
 - [ChristopherA8/Anime-Bible-Old](https://github.com/ChristopherA8/Anime-Bible-Old) - Lets the user search for various anime, manga, characters and quotes from the extensive selection at AniList.co. Uses the AniList.co GraphQL API to fetch images, titles, ratings, episode count, etc...
