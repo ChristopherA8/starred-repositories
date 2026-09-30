@@ -649,7 +649,6 @@
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) - The world’s 1st book of very detailed iOS App reverse engineering skills :)
 - [janselv/fave-button](https://github.com/janselv/fave-button) - FaveButton is an iOS cute animated like button written in Swift.
-- [JMPerez/spotify-iquiz](https://github.com/JMPerez/spotify-iquiz) - iQuiz-like webapp using Spotify Web API
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [totallynotadi/now-playing-cards](https://github.com/totallynotadi/now-playing-cards) - good looking cards for your github readme showing your currently playing song on spotify
 - [coolstar/libhooker](https://github.com/coolstar/libhooker) - libhooker OSS
