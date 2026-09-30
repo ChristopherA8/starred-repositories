@@ -155,7 +155,6 @@
 - [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [swainson-fitz-michael-holness/Beat-Maker-App](https://github.com/swainson-fitz-michael-holness/Beat-Maker-App) - A beat maker using tone.js
-- [JMPerez/spotify-iquiz](https://github.com/JMPerez/spotify-iquiz) - iQuiz-like webapp using Spotify Web API
 - [Elements6007/ReturnYoutubeSort](https://github.com/Elements6007/ReturnYoutubeSort) - Returns YouTube Sort By: Oldest
 - [Windsdon/spotify-control](https://github.com/Windsdon/spotify-control) - Control a Spotify client running on the localhost
 - [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
