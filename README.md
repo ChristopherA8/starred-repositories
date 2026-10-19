@@ -320,7 +320,6 @@
 - [google/google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) - Google APIs Client Library for Objective-C for REST
 - [leptos-null/OneTime](https://github.com/leptos-null/OneTime) - iOS, watchOS, & macOS One-Time Password client
 - [hbang/libcephei](https://github.com/hbang/libcephei) - Useful functions for tweak developers
-- [TUNER88/iOSSystemSoundsLibrary](https://github.com/TUNER88/iOSSystemSoundsLibrary) - List of all system sounds used in iOS
 
 ## Objective-C++ 
 
@@ -477,6 +476,7 @@
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
 - [EamonTracey/NomaePreferences](https://github.com/EamonTracey/NomaePreferences) - A SwiftUI preferences framework for iOS tweak development
 - [cbpowell/MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
+- [TUNER88/iOSSystemSoundsLibrary](https://github.com/TUNER88/iOSSystemSoundsLibrary) - List of all system sounds used in iOS
 
 ## TypeScript 
 
