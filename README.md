@@ -437,7 +437,6 @@
 - [mitchchn/FunWithPanels](https://github.com/mitchchn/FunWithPanels) - Fun (with panels)
 - [theoderoy/Deboogey](https://github.com/theoderoy/Deboogey) - 
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
-- [AbodiDawoud/MacDebugTools](https://github.com/AbodiDawoud/MacDebugTools) - Debug your apps with internal tools built by Apple.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [danijelLoc/Chip8iEmulationCore](https://github.com/danijelLoc/Chip8iEmulationCore) - Chip8 Emulation Core Swift Package
 - [SebastianBoldt/Learn-And-Master-IGListKit](https://github.com/SebastianBoldt/Learn-And-Master-IGListKit) - 🤘- IGListKit for Dummies
