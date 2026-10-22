@@ -96,6 +96,7 @@
 
 ## C++ 
 
+- [unixzii/Champagne](https://github.com/unixzii/Champagne) - Run applications from Mac OS X 10.6 Snow Leopard on anywhere.
 - [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
 - [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) - XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 - [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
