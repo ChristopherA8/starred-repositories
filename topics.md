@@ -586,6 +586,7 @@
 
 ## others 
 
+- [unixzii/Champagne](https://github.com/unixzii/Champagne) - Run applications from Mac OS X 10.6 Snow Leopard on anywhere.
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
 - [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac) - A Mac OS X bootloader for the Nintendo Wii.
