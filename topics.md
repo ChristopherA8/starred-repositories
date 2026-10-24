@@ -34,6 +34,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
@@ -283,6 +284,11 @@
 ## dotfiles 
 
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## electron 
 
@@ -586,6 +592,7 @@
 
 ## others 
 
+- [Toxic880/TwistPad](https://github.com/Toxic880/TwistPad) - 
 - [unixzii/Champagne](https://github.com/unixzii/Champagne) - Run applications from Mac OS X 10.6 Snow Leopard on anywhere.
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
