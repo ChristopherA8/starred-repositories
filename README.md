@@ -431,6 +431,7 @@
 
 ## Swift 
 
+- [Toxic880/TwistPad](https://github.com/Toxic880/TwistPad) - 
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
 - [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
