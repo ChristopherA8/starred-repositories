@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [arduino](#arduino)
 - [automation](#automation)
@@ -139,6 +140,12 @@
 
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
+
+## animation 
+
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [xiaochaofeiyu/YSCAnimation](https://github.com/xiaochaofeiyu/YSCAnimation) - 
 
 ## api 
 
@@ -745,7 +752,6 @@
 - [pattern-f/xattr-oob-swap](https://github.com/pattern-f/xattr-oob-swap) - Demo exploit code for CVE-2020-27904, a tfp0 bug.
 - [cellomonster/iOS-Raspberry](https://github.com/cellomonster/iOS-Raspberry) - A Discord app for iOS 5+
 - [lukapool/LKAWaveCircleProgressBar](https://github.com/lukapool/LKAWaveCircleProgressBar) - 一款带有双波浪动画的圆形进度指示器
-- [xiaochaofeiyu/YSCAnimation](https://github.com/xiaochaofeiyu/YSCAnimation) - 
 - [ryannair05/Little12](https://github.com/ryannair05/Little12) - iPhone 12 gestures and more for iOS 14
 - [mastashake08/discord-twitter-bot](https://github.com/mastashake08/discord-twitter-bot) - A discord bot that sends messages to a channel whenever a specific user tweets.
 - [Aehmlo/udid-enabled-cydia-repo](https://github.com/Aehmlo/udid-enabled-cydia-repo) - Cydia repository written in Node. Includes UDID protection features.
