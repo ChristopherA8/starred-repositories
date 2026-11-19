@@ -147,7 +147,6 @@
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-- [GardeningTool/DiscordExploit](https://github.com/GardeningTool/DiscordExploit) - A method of false flagging Windows Defender in Discord and other applications
 
 ## JavaScript 
 
