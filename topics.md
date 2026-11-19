@@ -791,7 +791,6 @@
 - [EamonTracey/NomaePreferences](https://github.com/EamonTracey/NomaePreferences) - A SwiftUI preferences framework for iOS tweak development
 - [denialpan/DoABarrelWall](https://github.com/denialpan/DoABarrelWall) - Cycle through lockscreen and homescreen wallpapers with an "unlimited" set amount of images in iOS 12 - 15.
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
-- [GardeningTool/DiscordExploit](https://github.com/GardeningTool/DiscordExploit) - A method of false flagging Windows Defender in Discord and other applications
 - [SparkDev97/libSparkAppList](https://github.com/SparkDev97/libSparkAppList) - 
 - [alexkotr1/jailbreakbot](https://github.com/alexkotr1/jailbreakbot) - 
 - [ModernPwner/cicuta_virosa](https://github.com/ModernPwner/cicuta_virosa) - 
