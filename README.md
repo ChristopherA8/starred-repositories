@@ -147,6 +147,7 @@
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 
 ## JavaScript 
 
@@ -392,7 +393,6 @@
 - [kidscancode/pygame_tutorials](https://github.com/kidscancode/pygame_tutorials) - Code to go along with lessons at http://kidscancode.org/lessons
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [arandomdev/DyldExtractor](https://github.com/arandomdev/DyldExtractor) - Extract Binaries from Apple's Dyld Shared Cache
-- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [Arthurdw/dogehouse.py](https://github.com/Arthurdw/dogehouse.py) - A Python wrapper for the Dogehouse API.
 - [Sangster-5/kahoot-flooder](https://github.com/Sangster-5/kahoot-flooder) - Kahoot Bot Flooder
 - [DiscordGIR/gir](https://github.com/DiscordGIR/gir) - 
